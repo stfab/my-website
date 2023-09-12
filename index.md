@@ -9,7 +9,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 <!-- insert a profile image and name and title in the center of the page -->
 <div>
     <img src="/assets/img/fabian_stadler.jpg" alt="Profile image" style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;">
-    <h2 style="text-align: center; margin-bottom:10px; margin-top:10px">Fabian Stadler</h2>
+    <h1 style="text-align: center; margin-bottom:10px; margin-top:10px">Fabian Stadler</h1>
     <h5 class="post-date" style="text-align: center; font-size:16px">Freelance Software Engineer</h5>
 </div>
 
