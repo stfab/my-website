@@ -1,0 +1,10 @@
+version: "1.0"
+
+services:
+  jekyll:
+    image: jekyll/jekyll:4.0.0
+    volumes:
+      - ./../:/srv/jekyll
+    ports:
+      - 4000:4000
+    command: jekyll serve --watch --force_polling

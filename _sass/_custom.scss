@@ -1,0 +1,29 @@
+.navbar {
+    a {
+        font-size: 18px;
+    }
+}
+
+// no border
+.home-table {
+    border: none;
+    font-family: $sans-serif-font-family;
+
+    tr {
+        border: bottom 1px solid;
+    }
+
+    td,
+    th {
+        padding: 5px;
+        border: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.post-image {
+    margin-bottom: 10px;
+}

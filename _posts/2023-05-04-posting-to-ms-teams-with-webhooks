@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Teams-ify Your Observability with Webhooks"
+description: "Learn how to send real-time notifications to your development team in a microservice architecture using webhooks. Discover the benefits of this approach and how it solves common problems with email alerts. Read on for a comprehensive explanation and implementation tips."
+author: "Fabian Stadler"
+categories: tech
+tags: [observability,protocols,microservices]
+image: assets/img/webhook_logo.png
+image_description: "Teams-ify Your Observability with Webhooks"
+permalink: 2023/05/posting-to-ms-teams-with-webhooks.html
+---
+
+Recently, I was working on a project where I needed to send real-time notifications to members of the development team in a microservice architecture so they can act quickly and when needed. The original idea was to define specific alerts that would notify developers by mail in a configurable list. Users could then decide for themselves whether to react to the alert or simply perceive it as information that they should take action soon. But this approach had certain problems, which I solved with the help of webhooks. How this works and what a webhook is, I explain in the following. 
+
+## The Problem
+
+First of all: No alert is perfect, and so the targeted developers may get a lot of notifications. So it may be better to just use a queue where messages come in and where problems can be observed periodically. 
+
+One idea to solve this would be to have a separate mail account that everyone can see. But most communication now takes place in chat. In this article, I'll use Microsoft Teams as an example, but this applies to other solutions as well. I may want to tell my team directly when a message has been removed or is unnecessary. I can't do this so well in a mail account. In addition, it can quickly become confusing there. In a chat, I can easily reply to a message so that it is visible for everyone. 
+
+So why not publish the notifications directly in a chat channel? This solves the above problem and also avoids the use of mails, which you don't want to implement in a microservice elaborately. 
+
+Now Microsoft Teams has some connectors for many common logging systems like Datadog or Log Analytics. But this may not always be available in a limited enterprise context. So it would be desirable to use a simpler, more general option. The answer is webhooks. 
+
+## What are webhooks?
+
+A webhook is a simple and efficient way for web applications to communicate with each other in real time. It is a technique that allows one application to send a notification or message to another application when a certain event occurs.  
+
+Specifically, a webhook is essentially a callback URL provided by the receiving application to which the sender can send data when a certain event occurs. The sender sends a POST request with payload data to the webhook URL when the specified event is triggered. The receiving application then processes the data sent by the sender in the payload. Unlike SOAP, no additional transport layer is used, and unlike ASF, webhooks are not locked into XML format. 
+
+## How do I use webhooks with Microsoft Teams? 
+
+With Microsoft Teams, there are so-called incoming webhooks that you can configure. Teams provides a URL to which the user can send various event data. The nice thing about this is that you can even send elaborate map-like messages and include images. Microsoft Teams then publishes the message to the selected channel and notifies the allowed members.  
+
+Setting up an inbound webhook for a Microsoft Teams channel is a [simple process that requires only a few steps](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet). Once set up, the easiest way to try it out is with a client such as Postman. Format your message payload according to the Microsoft Teams Incoming Webhook schema and send a POST request to the Webhook URL with the payload containing the message you want to send.  
+
+```JSON
+{
+    "timestamp": 1620150749, 
+    "text": "Hello World" 
+} 
+``` 
+
+Afterward, the message is sent in real time to the Microsoft Teams channel.
+
+![A message in Teams posted by a webhook](/assets/img/webhook_ms_teams.png)
+_A message in Teams posted by a webhook, Copyright: Fabian Stadler_
+
+The same way you can do it for any of your applications. Here is a Python snippet:
+
+```Python
+import requests
+import json
+
+webhook_url = "https://your.webhook.url.here"
+
+message = {
+    "timestamp": 1620150749, 
+    "text": "Hello World" 
+} 
+
+response = requests.post(
+    webhook_url, data=json.dumps(message),
+    headers={"Content-Type": "application/json"}
+)
+
+print(response.status_code)
+```
+ 
+## Advantages of webhooks over mail  
+
+Webhooks have several advantages over traditional email for real-time notifications and updates. The most important advantage is lower latency. Webhooks use POST requests to send data, which is much faster than email, which is based on SMTP protocols. This lower latency ensures that notifications sent via webhooks are delivered quickly and efficiently.  
+
+Also, webhooks offer more flexibility and customization options as compared to email. Developers can define the structure and format of the payload so that the recipient can analyze and process the data more efficiently. In contrast, email messages have a fixed structure, which limits their ability to convey complex data and metadata.  
+
+Finally, webhooks offer a more secure communication channel compared to email. Email is vulnerable to spam, phishing and other security threats, while we can also use webhooks with HTTPS protocol and API keys to authenticate and authorize communications between applications. This enhanced security ensures that data transmitted over webhooks is secure and confidential, which is essential for sensitive applications or systems.  
+
+## Conclusion 
+
+Webhooks are useful for time-sensitive applications that require real-time updates or notifications, such as payment processing systems, chat applications, and real-time monitoring systems. They are also an excellent choice for systems that require custom data and metadata.  
+
+However, there are some situations where webhooks are not the best choice. For example, if an application needs to transfer a large amount of data or the data is too complex to be parsed and processed efficiently with a webhook, another communication protocol may be more appropriate. If an application does not need to be updated in real time, email or other communication protocols may also be more appropriate. 
+
+Here, I think the use of webhooks was very suitable, so that notifications can be efficiently published to chat channels, especially in a microservice architecture from many systems. Of course, this approach does not replace a complex logging framework that also works with automated incidents. But it is a good first solution that can be easily migrated and works well in conjunction with alerting frameworks.
