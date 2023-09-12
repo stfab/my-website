@@ -26,6 +26,7 @@ exclude: ['_site', 'docker', LICENSE.md, Gemfile, Gemfile.lock, schatten.gemspec
 title:		           'Fabian Stadler'
 description:	       'Software Engineer & Architect'
 author:              'Fabian Stadler'
+url:                 'https://www.fabianstadler.com'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 # feed:
