@@ -6,11 +6,10 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 
 <br>
 
-<!-- insert a profile image and name and title in the center of the page -->
-<div>
-    <img src="/assets/img/fabian_stadler.jpg" alt="Profile image" style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;">
-    <h1 style="text-align: center; margin-bottom:10px; margin-top:10px">Fabian Stadler</h1>
-    <h5 class="post-date" style="text-align: center; font-size:16px">Freelance Software Engineer</h5>
+<div class="profile">
+    <img src="/assets/img/fabian_stadler.jpg" alt="Profile image">
+    <h1>Fabian Stadler</h1>
+    <h5 class="post-date">Freelance Software Engineer</h5>
 </div>
 
 
@@ -18,8 +17,8 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 <table class="home-table">
     {% for post in site.posts limit:5 %}
     <tr>
-        <td style="text-align: left"><a href="{{ post.url }}">{{ post.title }}</a></td>
-        <td style="text-align: left">{{ post.date | date: "%b %-d, %Y" }}</td>
+        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td>{{ post.date | date: "%b %-d, %Y" }}</td>
     </tr>
     {% endfor %}
 </table>

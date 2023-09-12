@@ -15,12 +15,35 @@
 
     td,
     th {
+        text-align: left;
         padding: 5px;
+        padding-left: 0px;
         border: none;
     }
 
     a {
         text-decoration: none;
+    }
+}
+
+.profile {
+
+    img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    h1 {
+        text-align: center;
+        margin: 10px 0px;
+    }
+
+    h5 {
+        text-align: center;
+        font-size: 16px;
     }
 }
 
