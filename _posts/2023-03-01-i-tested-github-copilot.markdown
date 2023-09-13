@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Tested GitHub Copilot and This Happened"
-description: "Wondering if GitHub Copilot is right for you? In this article, I share my thoughts and experiences after using the tool for 30 days. Discover best practices and insights to help you make an informed decision."
+description: "Wondering if GitHub Copilot is right for you? In this article, I share my thoughts and experiences after using the tool for 30 days."
 author: "Fabian Stadler"
 categories: [tech,journal]
 tags: [tools]

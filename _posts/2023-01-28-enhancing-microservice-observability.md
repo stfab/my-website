@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enhancing Observability of Microservices With Datadog"
+title: "Observability of Microservices With Datadog"
 description: "This article delves into the topic of observability when deploying microservices to Kubernetes with the SaaS Datadog as an example."
 author: "Fabian Stadler"
 categories: tech

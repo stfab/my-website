@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 description: "This page contains the privacy policy for fabianstadler.com and its subdomains in accordance with the General Data Protection Regulation (GDPR)."
-permalink: p/privacy-policy
+permalink: p/privacy-policy.html
 ---
 
 Responsible for data processing is:

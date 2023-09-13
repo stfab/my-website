@@ -2,7 +2,7 @@
 layout: page
 title: Bio
 description: "Fabian Stadler is a freelance software engineer with several years of experience in development. After working in the industry for almost 6 years, they decided to work as a freelancer in 2023."
-permalink: p/bio
+permalink: p/bio.html
 ---
 
 Fabian Stadler is a freelance software engineer with several years of experience in development. After working in the industry for almost 6 years, they decided to work as a freelancer in 2023. They specialize in cloud development of enterprise systems and data integration.

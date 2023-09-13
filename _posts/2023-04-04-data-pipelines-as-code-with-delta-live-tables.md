@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Data Pipelines as Code With Delta Live Tables"
-description: "In this blog post, I will explore how to create data pipelines as code with Delta Live Tables, the latest ETL framework from Databricks. By leveraging the power of Delta Live Tables, developers can create pipelines that are reliable, scalable, and easy to maintain."
+title: "Pipelines as Code With Delta Live Tables"
+description: "In this blog post, I will explore how to create data pipelines as code with Delta Live Tables, the latest ETL framework from Databricks."
 author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,tools]

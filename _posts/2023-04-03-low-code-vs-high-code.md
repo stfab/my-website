@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Low-code vs. High-code Data Pipelines"
-description: "Often, companies are faced with the dilemma of how to implement data pipelines quickly and easily. Low-code platforms offer a solution to this problem. However, they are often not the best solution. In this post, I will explain why high-code is often the better choice"
+description: "Often, companies are faced with the dilemma of how to implement data pipelines quickly. In this post, I will explain why high-code is often the better choice."
 author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,architecture]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Lakehouse as Single Source of Truth"
-description: "Over the past few years, the data lake architecture has become the de facto standard for data engineering. However, this architecture has some shortcomings. The Data Lakehouse architecture is a new approach to data engineering that addresses these issues and unifies data lake and data warehouse."
+description: "The Data Lakehouse architecture is a new approach to data engineering that addresses these issues and unifies data lake and data warehouse."
 author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,architecture]

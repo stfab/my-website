@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Became Azure Data Engineer Associate in Twenty Days"
+title: "Becoming Azure Data Engineer in Twenty Days"
 description: "Do you want to become an Azure Data Engineer Associate? Here I describe how I did it and go into detail about the exam content."
 author: "Fabian Stadler"
 categories: [tech,journal]
