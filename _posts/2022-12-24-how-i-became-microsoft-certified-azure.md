@@ -6,6 +6,7 @@ author: "Fabian Stadler"
 categories: [tech,journal]
 tags: [data-engineering]
 image: assets/img/coffeeandbooks.png
+image_description: "A photo of a cup of coffee and a stack of books on a table as a metaphor for learning."
 permalink: 2022/12/how-i-became-microsoft-certified-azure.html
 ---
 

@@ -6,6 +6,7 @@ author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,architecture]
 image: assets/img/water-197334_1280.jpg
+image_description: "An image of old medieval pipes in a well where water is coming out as a metaphor for data flows."
 permalink: 2023/04/data-lakehouse-as-single-source-of-truth.html
 ---
 

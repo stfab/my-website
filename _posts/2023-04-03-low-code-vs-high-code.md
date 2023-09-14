@@ -6,6 +6,7 @@ author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,architecture]
 image: assets/img/investment-5241253_1280.jpg
+image_description: "A cartoon image of a small plant that is growing out of soil as a metaphor for investment in technological architecture."
 permalink: 2023/04/low-code-vs-high-code.html
 ---
 

@@ -6,7 +6,7 @@ author: "Fabian Stadler"
 categories: tech
 tags: [data-engineering,tools]
 image: assets/img/pressure-water-line.jpg
-image_description: "Data Pipelines as Code With Delta Live Tables"
+image_description: "An image of a pressure water line as a metaphor for data pipelines."
 permalink: 2023/04/data-pipelines-as-code-with-delta-live-tables.html
 ---
 

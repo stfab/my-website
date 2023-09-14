@@ -6,6 +6,7 @@ author: "Fabian Stadler"
 categories: tech
 tags: [microservices,tools]
 image: assets/img/cateyes.png
+image_description: "An image of a cat with blue eyes as a metaphor for observability."
 permalink: 2023/01/enhancing-microservice-observability.html
 ---
 
