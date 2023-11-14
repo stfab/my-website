@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Bio
-description: "Fabian Stadler is a freelance software engineer with several years of experience in development. After working in the industry for almost 6 years, they decided to work as a freelancer in 2023."
+description: "Fabian Stadler is a freelance software engineer with several years of experience in development."
 permalink: p/bio.html
 ---
 
-Fabian Stadler is a freelance software engineer with several years of experience in development. After working in the industry for almost 6 years, they decided to work as a freelancer in 2023. They specialize in cloud development of enterprise systems and data integration.
+Fabian Stadler is a freelance software engineer with several years of experience in development. After graduating in mathematics, they worked for multiple companies in the fields such as public transport, pharmacy, and chemistry. They founded their own company, Fabian Stadler Solutions, in 2023.
 
-From 2014 to 2017, they studied mathematics at the University of Heidelberg. They chose computer science as their application subject and graduated with a thesis on "Spectral Theory and Stone's Theorem". 
-
-After graduation, they worked at krauth technology GmbH, a leading German manufacturer for ticket vending machines, and HMS Analytical Software GmbH, which specializes in the areas of life science and enterprise analytical systems, among others.
