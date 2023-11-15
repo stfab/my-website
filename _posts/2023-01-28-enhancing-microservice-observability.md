@@ -109,14 +109,3 @@ Additionally, the Datadog Monitor service enables the creation of monitors that 
 Datadog is a powerful monitoring and observability platform that offers a wide range of features for monitoring and troubleshooting applications, networks and infrastructure. Some of the advantages of using Datadog include its ability to collect and aggregate metrics, traces, and logs from a wide variety of sources, its support for custom dashboards and alerting, and its ability to automatically detect and alert on anomalies. It also provides a wide variety of integrations with other tools, such as cloud providers, security tools, and databases.
 
 However, Datadog may have some disadvantages as well, such as its high cost for some large enterprise use cases and its relatively steep learning curve for new users. Additionally, it may not be the best fit for organizations with strict security and regulatory requirements. As always, it depends on the business requirements if working with a SaaS like Datadog is optimal.
-
-## Further Reading
-  * [Infrastructure & Application Monitoring as a Service](https://www.datadoghq.com/product/)
-  * [Sending Traces to Datadog](https://docs.datadoghq.com/tracing/trace_collection/)
-  * [APM Metrics](https://docs.datadoghq.com/tracing/metrics/) 
-  * [Service Observability](https://docs.datadoghq.com/tracing/services/)
-  * [Continous Profiler](https://docs.datadoghq.com/profiler/) 
-  * [Configure Monitors](https://docs.datadoghq.com/monitors/configuration/?tab=thresholdalert)
-  * [OpenTelemetry](https://docs.datadoghq.com/opentelemetry/) 
-  * [Datadog Watchdog](https://docs.datadoghq.com/watchdog/)
-  * [Install the Datadog Agent on Kubernetes](https://docs.datadoghq.com/containers/kubernetes/installation?tab=operator)

@@ -5,5 +5,4 @@ description: "Fabian Stadler is a freelance software engineer with several years
 permalink: p/bio.html
 ---
 
-Fabian Stadler is a freelance software engineer with several years of development experience. After studying mathematics, they worked for several companies in the public transport, pharmaceutical and chemical industries. They founded their own company, Fabian Stadler Solutions, in 2023.
-
+Fabian Stadler is a freelance software engineer with several years of development experience. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries. In 2023 they started their own business, Fabian Stadler Solutions.
