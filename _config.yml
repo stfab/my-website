@@ -57,7 +57,6 @@ google-ID: ''
 
 # configure your pages for the navbar here
 navbar-pages:
-- {name: 'Bio',   link: '/p/bio.html'}
 - {name: 'Posts', link: '/p/posts.html'}
 - {name: 'Archive', link: '/p/archive.html'}
 - {name: 'Imprint', link: '/p/imprint.html'}
@@ -77,3 +76,10 @@ copyright: 2023
 # the license for the footer and the link, comment out to disable
 license: 'CC BY-SA 4.0 Attribution-ShareAlike 4.0 International.'
 license-link: 'https://github.com/stfab/my-website/blob/master/LICENSE'
+
+scholar:
+  style: ieee
+  bibliography_template: bib
+  # bibtex_filters:
+  #   - latex
+  #   - markdown

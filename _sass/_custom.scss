@@ -1,3 +1,107 @@
+.container {
+    max-width: 768px;
+}
+
+section {
+    position: relative;
+
+    img {
+        // make image slightly opaque
+        opacity: 0.5;
+    }
+
+    .centered {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: black;
+        line-height: 1.2;
+    }
+
+}
+
+.home-section {
+    width: 100%;
+    display: flow-root;
+
+    .right {
+        img {
+            width: 50%;
+            float: left;
+        }
+
+        h2 {
+            padding-top: 10px;
+            text-align: right;
+        }
+
+        p {
+            width: 48%;
+            float: right;
+            text-align: right;
+        }
+    }
+
+    .left {
+        img {
+            width: 50%;
+            float: right;
+        }
+
+        h2 {
+            padding-top: 10px;
+            text-align: left;
+        }
+
+        p {
+            width: 48%;
+            float: left;
+            text-align: left;
+        }
+    }
+}
+
+// responsive
+@media (max-width: $elements-responsive-width) {
+    .home-section {
+        .right {
+            img {
+                width: 100%;
+                float: none;
+            }
+
+            h2 {
+                text-align: center;
+            }
+
+            p {
+                width: 100%;
+                float: none;
+                text-align: left;
+            }
+        }
+
+        .left {
+            img {
+                width: 100%;
+                float: none;
+            }
+
+            h2 {
+                text-align: center;
+            }
+
+            p {
+                width: 100%;
+                float: none;
+                text-align: left;
+            }
+        }
+    }
+}
+
 .navbar {
     a {
         font-size: 18px;
@@ -26,27 +130,107 @@
     }
 }
 
-.profile {
+.profile-section {
+    width: 100%;
+    display: flow-root;
 
-    img {
-        width: 150px;
-        height: 150px;
-        border-radius: 50%;
-        margin: 0 auto;
-        display: block;
+    .profile {
+
+        float: left;
+        width: 50%;
+
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto;
+            display: block;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 10px 0px;
+        }
+
+        h5 {
+            text-align: center;
+            font-size: 16px;
+        }
     }
 
-    h1 {
-        text-align: center;
-        margin: 10px 0px;
-    }
-
-    h5 {
-        text-align: center;
-        font-size: 16px;
+    .profile-text {
+        float: left;
+        width: 45%;
+        text-align: left;
     }
 }
 
+// in responsive mode, the profile and text are centered and below each other
+@media (max-width: $elements-responsive-width) {
+    .profile {
+        width: 100%;
+        float: none;
+    }
+
+    .profile-text {
+        width: 100%;
+        float: none;
+    }
+}
+
+
 .post-image {
     margin-bottom: 10px;
+}
+
+
+.case-studies {
+    width: 100%;
+    display: flow-root;
+
+    .case-study {
+        width: 33%;
+        float: left;
+        padding: 10px;
+        box-sizing: border-box;
+        text-align: center;
+
+        img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        img:hover {
+            opacity: 0.5;
+            transition: opacity 0.5s ease-in-out;
+
+            +.title {
+                display: block;
+            }
+        }
+    }
+}
+
+.contact-button {
+    font-size: 30px;
+    padding-right: 5px;
+}
+
+.citation {
+    font-family: $code-font-family;
+    font-size: 80%;
+    position: relative;
+    line-height: 0;
+    vertical-align: baseline;
+    top: -0.5em;
+    text-decoration: none;
+}
+
+.bibliography {
+    list-style: none;
+    padding-inline-start: 10px;
+
+    li {
+        font-size: 16px;
+    }
 }
