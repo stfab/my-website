@@ -54,7 +54,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
     <div class="profile-text">
         <p>Fabian Stadler is a senior software engineer with several years of development experience. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
         <a class="icon contact-button" href="mailto:mail@fabianstadler.com" target="_blank"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
-        <a class="icon contact-button" href="https://www.linkedin.com/in/fabian-stadler-1b1b0b1a9/" target="_blank"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+        <a class="icon contact-button" href="https://www.linkedin.com/in/fabian-stadler-46777b229/" target="_blank"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
     </div>
 </div>
 
