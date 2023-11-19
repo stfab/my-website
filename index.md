@@ -9,6 +9,8 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
     <div class="centered"><h2>Enabling Data - Driving Results</h2></div>
 </section>
 
+## Services
+
 <div class="home-section">
     <div class="right">
         <h2>Data Analysis, Migration & Mining</h2>
