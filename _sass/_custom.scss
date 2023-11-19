@@ -167,14 +167,16 @@ section {
 
 // in responsive mode, the profile and text are centered and below each other
 @media (max-width: $elements-responsive-width) {
-    .profile {
-        width: 100%;
-        float: none;
-    }
+    .profile-section {
+        .profile {
+            width: 100%;
+            float: none;
+        }
 
-    .profile-text {
-        width: 100%;
-        float: none;
+        .profile-text {
+            width: 100%;
+            float: none;
+        }
     }
 }
 
