@@ -4,7 +4,7 @@ title: Home
 description: "Fabian Stadler is a software engineer with multiple years of experience in research and development. They specialize in cloud development and data integration."
 ---
 
-<section>
+<section class="index-header">
     <img src="/assets/img/company_logo.jpg" alt="Company logo of Fabian Stadler Solutions">
     <div class="centered"><h2>Enabling Data - Driving Results</h2></div>
 </section>
