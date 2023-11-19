@@ -13,7 +13,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 
 <div class="home-section">
     <div class="right">
-        <h3>Data Analysis, Migration & Mining</h2>
+        <h3>Data Analysis, Migration & Mining</h3>
         <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
         <p>Many companies use tracking software and CRM systems to collect data about their customers. However, this data is often distributed across many services. I can bring your data to a single longterm storage and create a platform with that you can smoothly analyze the most important KPIs. For this, I use tools such as Azure Data Factory, Databricks, or custom code.</p>
     </div>
