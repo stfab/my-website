@@ -1,0 +1,10 @@
+<nav class="navbar">
+    <a href="{{ site.github.url }}/de/">
+      <icon class="fa fa-home"></icon>
+    </a>
+    {% for item in site.navbar-pages-de %}
+      <a href="{{ site.github.url }}{{ item.link }}">
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>

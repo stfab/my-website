@@ -8,6 +8,7 @@ tags: [tools]
 image: assets/img/github-copilot.jpeg
 image_description: "An image of the GitHub Copilot logo."
 permalink: 2023/01/i-tested-github-copilot.html
+lang: en
 ---
 
 It was in late 2021 that I first heard of Microsoft's new AI coding tool, GitHub Copilot. It was the first major news for me after the [controversial acquisition of GitHub by Microsoft](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) and the well-known mass exodus to other platforms like GitLab.

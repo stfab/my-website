@@ -8,6 +8,7 @@ tags: [data-engineering,tools]
 image: assets/img/pressure-water-line.jpg
 image_description: "An image of a pressure water line as a metaphor for data pipelines."
 permalink: 2023/04/data-pipelines-as-code-with-delta-live-tables.html
+lang: en
 ---
 
 It has now been almost a year since Databricks released a new [ETL framework under the name Delta Live Tables](https://www.databricks.com/blog/2022/04/05/announcing-generally-availability-of-databricks-delta-live-tables-dlt.html). With this, the San Francisco-based company is focusing on the strategy of being able to use its existing data platform as a general-purpose tool and is pushing forward with its transformation to a single-source-of-truth.

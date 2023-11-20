@@ -8,6 +8,7 @@ tags: [microservices,tools]
 image: assets/img/cateyes.png
 image_description: "An image of a cat with blue eyes as a metaphor for observability."
 permalink: 2023/01/enhancing-microservice-observability.html
+lang: en
 ---
 
 In today's fast-paced and ever-changing software development landscape, deploying microservices to Kubernetes has become a popular and effective way to build and manage large, complex systems. However, as the number of microservices in a system increases, so does the complexity of monitoring and understanding the behavior and performance of those services in production. This is where observability comes in. In this article, we'll explore why observability is crucial when deploying microservices to Kubernetes, and what you need to know to effectively monitor and troubleshoot your microservices in a Kubernetes environment. For this, we will take the monitoring SaaS Datadog as an example.

@@ -1,0 +1,56 @@
+---
+layout: default-de
+---
+
+<h1>
+  {{ page.title }}
+</h1>
+{% if page.image %}
+  {% if page.image contains 'http' %}
+    <img class="post-image" src="{{ page.image }}" alt="{{ page.image_description }}">
+  {% else %}
+    <img class="post-image" src="{{ site.github.url }}/{{ page.image }}" alt="{{ page.image_description }}">
+  {% endif %}
+  {% if page.image_title %}
+    <p class="post-image-subtitle">{{ page.image_title }}</p>
+  {% endif %}
+{% endif %}
+<article class="post-content">
+  {{ content }}
+</article>
+<p class="post-date" style="text-align:left">
+  <!-- add number of words -->
+  {% assign words = content | number_of_words %}
+  <icon class="fa fa-file"></icon>
+  {{ words }} words
+  &#160;&#160;
+  <icon class="fa fa-calendar"></icon>
+  <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {{ page.date | date: "%B %d, %Y" }}
+  </time>
+  &#160;&#160;
+  <!-- add an author icon and the name-->
+  {% if page.author %}
+    <icon class="fa fa-user"></icon>
+    {{ page.author }}
+  {% endif %}
+  &#160;&#160;
+  {% if page.categories.size > 0 %}
+    <icon class="fa fa-folder-open"></icon>
+    {% for category in page.categories %}
+      {{ category }}{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  {% endif %}
+  &#160;&#160;
+  {% if page.tags.size > 0 %}
+    <icon class="fa fa-tags"></icon>
+    {% for tag in page.tags %}
+      {{ tag }} {% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  {% endif %}
+</p>
+{% include sharing-links.html %}
+
+{% if site.hide_related_posts != true %}
+  {% include related-posts-de.html %}
+{% endif %}

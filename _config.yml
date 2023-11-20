@@ -16,8 +16,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-toc
-  - jekyll-archives
 
 # Exclude these files/dirs from processing
 exclude: [_site, public, _docker, Gemfile, Gemfile.lock, README.md, LICENSE.md]
@@ -32,21 +30,6 @@ url:                 'https://www.fabianstadler.com'
 # feed:
 #   path: rss-feed.xml
 
-# configuration for jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-    - year
-  layouts: 
-    category: 'category-archive'
-    tag: 'tag-archive'
-    year: 'year-archive'
-  permalinks:
-    category: '/categories/:name/'
-    tag: '/tags/:name/'
-    year: '/:year/'
-
 # config for toc plugin
 toc:
   min_level: 2
@@ -57,10 +40,11 @@ google-ID: ''
 
 # configure your pages for the navbar here
 navbar-pages:
-- {name: 'Posts', link: '/p/posts.html'}
-- {name: 'Archive', link: '/p/archive.html'}
-- {name: 'Imprint', link: '/p/imprint.html'}
-- {name: 'Privacy Policy', link: '/p/privacy-policy.html'}
+- {name: 'News', link: '/p/posts.html'}
+
+navbar-pages-de:
+- {name: 'Aktuelles', link: '/de/posts.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -71,15 +55,8 @@ social:
 - {icon: 'square-rss', icon-class: 'solid', link: '/feed.xml'}
 
 # the copyright year for the footer, comment out to disable
-copyright: 2023
+copyright: 2022 - 2023
 
 # the license for the footer and the link, comment out to disable
 license: 'CC BY-SA 4.0 Attribution-ShareAlike 4.0 International.'
 license-link: 'https://github.com/stfab/my-website/blob/master/LICENSE'
-
-scholar:
-  style: ieee
-  bibliography_template: bib
-  # bibtex_filters:
-  #   - latex
-  #   - markdown

@@ -55,8 +55,32 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
     </div>
     <div class="profile-text">
         <p>Fabian Stadler is a senior software engineer with several years of development experience. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
-        <a class="icon contact-button" href="mailto:mail@fabianstadler.com" target="_blank"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
-        <a class="icon contact-button" href="https://www.linkedin.com/in/fabian-stadler-46777b229/" target="_blank"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+        {% for item in site.social %}
+            {% assign first_char = item.link | slice: 0 %}
+            {% if item.icon == 'mastodon' %}
+            <a class="icon contact-button"  rel="me" href="{{ item.link }}" target="_blank"><i class="fa-brands fa-{{ item.icon }}" aria-hidden="true"></i></a>
+            {% else %}
+            <a class="icon contact-button" href="{{ item.link }}" target="_blank"><i class="fa-{{ item.icon-class }} fa-{{ item.icon }}" aria-hidden="true"></i></a>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
+
+----
+
+## News
+
+<table class="home-table">
+    {% assign de_posts = site.posts | where_exp: "item", "item.lang == 'en'" %}
+    {% for post in de_posts limit:5 %}
+    <tr>
+        <td class="home-post-title"><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td class="home-post-date">{{ post.date | date: "%b %-d, %Y" }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<p class="more-articles">
+    <a href="/p/posts.html">All Articles</a>
+</p>
 

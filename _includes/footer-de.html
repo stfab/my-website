@@ -1,0 +1,47 @@
+<footer class="footer">
+  <div class="footer-description">
+    {% if site.copyright %}
+      &copy; {{ site.copyright }} {{ site.author }}
+    {% endif %}
+    | <a href="{{ site.github.url }}/de/imprint.html">Impressum</a>
+    | <a href="{{ site.github.url }}/de/privacy-policy.html">Datenschutzerklärung</a>
+    <br>
+    {% if site.license %}
+      All content<a href="{{ site.license-link }}">{{ site.license }}</a>
+    {% endif %}
+  </div>
+  <script>
+    // implement dark mode
+    let checkbox = document.getElementsByClassName("dark-mode-toggle")[0];
+    let body = document.body;
+
+    // toggle dark mode if smartphone has dark mode enabled
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      localStorage.setItem('dark-mode', true);
+    }
+
+    checkbox.addEventListener('click', function () {
+      if (localStorage.getItem('dark-mode') === 'true') {
+        localStorage.setItem('dark-mode', false);
+        body.classList.toggle('light-mode');
+        this.classList.toggle('fa-toggle-off');
+        this.classList.toggle('fa-toggle-on');
+      } else {
+        localStorage.setItem('dark-mode', true);
+        body.classList.toggle('light-mode');
+        this.classList.toggle('fa-toggle-off');
+        this.classList.toggle('fa-toggle-on');
+      }
+      body.classList.toggle('dark-mode');
+    });
+    if (localStorage.getItem('dark-mode') === 'true') {
+      body.classList.toggle('dark-mode');
+      checkbox.classList.toggle('fa-toggle-off');
+      checkbox.classList.toggle('fa-toggle-on');
+    } else {
+      body.classList.toggle('light-mode');
+      checkbox.classList.toggle('fa-toggle-off');
+      checkbox.classList.toggle('fa-toggle-on');
+    }
+  </script>
+</footer>

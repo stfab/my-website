@@ -8,6 +8,7 @@ tags: [data-engineering]
 image: assets/img/coffeeandbooks.png
 image_description: "A photo of a cup of coffee and a stack of books on a table as a metaphor for learning."
 permalink: 2022/12/how-i-became-microsoft-certified-azure.html
+lang: en
 ---
 
 At the beginning of December 2022, I had the spontaneous idea to complete a Microsoft certification for the Azure Platform. I worked for about a year as a data engineer on a project for an international pharmaceutical company. The technology stack here included the Azure Platform, specifically Data Factory and Data Lake Storage, but also Azure Databricks and processing data using Python.

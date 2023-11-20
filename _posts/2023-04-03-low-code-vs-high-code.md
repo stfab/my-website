@@ -8,6 +8,7 @@ tags: [data-engineering,architecture]
 image: assets/img/investment-5241253_1280.jpg
 image_description: "A cartoon image of a small plant that is growing out of soil as a metaphor for investment in technological architecture."
 permalink: 2023/04/low-code-vs-high-code.html
+lang: en
 ---
 
 In the hybrid scenarios that I recently mentioned in my [post about the Data Lakehouse](/2023/04/data-lakehouse-as-single-source-of-truth.html) and that still dominate the industry, Spark machines are often used in many places to perform data transformations. In this context, Spark has almost become the standard as an open source system with highly efficient distributed data processing.

@@ -8,6 +8,7 @@ tags: [data-engineering,architecture]
 image: assets/img/water-197334_1280.jpg
 image_description: "An image of old medieval pipes in a well where water is coming out as a metaphor for data flows."
 permalink: 2023/04/data-lakehouse-as-single-source-of-truth.html
+lang: en
 ---
 
 Over the past few years, the data lake architecture has become the de facto standard for big data use cases. However, many companies still found their data layer on relational databases for BI use cases. This was also the case for one of my previous projects. There, we had a data warehouse for BI use cases and a data lake for data scientists.
