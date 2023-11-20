@@ -16,7 +16,7 @@ permalink: de/index.html
     <div class="right">
         <h3>Datenanalyse, Migration & Mining</h3>
         <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
-        <p>Viele Unternehmen nutzen Tracking-Software und CRM-Systeme, um Daten über ihre Kunden zu sammeln. Allerdings sind diese Daten oft über viele Dienste verteilt. Ich kann Ihre Daten in einen einzigen Langzeitspeicher bringen und eine Plattform schaffen, mit der Sie die wichtigsten KPIs reibungslos analysieren können. Hierfür verwende ich Tools wie Azure Data Factory, Databricks oder eigenen Code.</p>
+        <p>Viele Unternehmen nutzen Tracking-Software und CRM-Systeme, um Daten über ihre Kunden zu sammeln. Allerdings sind diese Daten oft über viele Dienste verteilt. Ich werde Ihre Daten in einen einzigen Langzeitspeicher bringen und eine Plattform schaffen, mit der Sie die wichtigsten KPIs reibungslos analysieren können. Hierfür verwende ich unter anderem Tools wie Azure Data Factory, Databricks und eigenen Code.</p>
     </div>
 </div>
 
@@ -24,7 +24,7 @@ permalink: de/index.html
     <div class="left">
         <h3>Cloud-Entwicklung & Migration</h3>
         <img src="/assets/img/cloud.jpg" alt="Image of a cloud that is shaped lika a heart">
-        <p>Die Verlagerung Ihrer Geschäftsanwendungen in die Cloud kann Ihnen helfen, Kosten zu senken und Ihr Unternehmen flexibler zu machen. Ich kann Ihnen helfen, Ihre Anwendungen auf On-Demand-Dienste in der Microsoft Azure Cloud zu migrieren. Auf diese Weise können Sie Ihre Anwendungen nach Ihren Bedürfnissen skalieren und zahlen nur für das, was Sie nutzen.</p>
+        <p>Die Verlagerung von Geschäftsanwendungen in die Cloud kann Ihnen helfen, Kosten zu senken und Ihr Unternehmen flexibler zu machen. Ich migriere Ihre Anwendungen maßgeschneidert auf On-Demand-Dienste in der Microsoft Azure Cloud. Auf diese Weise können Sie Ihre Anwendungen nach Ihren Bedürfnissen skalieren und zahlen nur für das, was Sie nutzen.</p>
     </div>
 </div>
 
@@ -32,7 +32,7 @@ permalink: de/index.html
     <div class="right">
         <h3>Tool-Erstellung & APIs</h3>
         <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
-        <p>Desktop- oder webbasierte Tools können Ihnen helfen, Ihre Geschäftsprozesse zu automatisieren und Ihre Mitarbeiter produktiver zu machen. APIs können Ihnen helfen, Ihre Systeme mit denen Ihrer Partner zu integrieren. In der Vergangenheit habe ich an einer breiten Palette solcher Tools und APIs gearbeitet. Ich kann Ihnen helfen, solche Tools mit Programmiersprachen wie Python, C#, Java und gängigen Frameworks zu erstellen.</p>
+        <p>Desktop- oder webbasierte Tools helfen Ihnen, Geschäftsprozesse zu automatisieren und Ihre Mitarbeiter produktiver zu machen. APIs integrieren Ihre Systeme mit denen Ihrer Partner. In der Vergangenheit habe ich an einer breiten Palette solcher Tools und APIs gearbeitet. Bei Bedarf erstelle ich Ihnen dokumentierte Tools in Programmiersprachen wie Python, C#, Java und gängigen Frameworks.</p>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ permalink: de/index.html
     <div class="left">
         <h3>Datenbank Überwachung & Optimierung</h3>
         <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk">
-        <p>Datenbanken sind das Herzstück jeder datengesteuerten Anwendung. Allerdings neigen sie dazu, mit der Zeit und durch unsachgemäße Nutzung langsam und ineffizient zu werden. Um Ihnen bei der Lösung solcher Probleme zu helfen, biete ich eine Nutzungsanalyse, Optimierung und eine moderne Überwachungsplattform an. Mein Fachwissen umfasst Produkte wie MySQL, PostgreSQL und MS-SQL Server.</p>
+        <p>Datenbanken sind das Herzstück jeder datengesteuerten Anwendung. Allerdings neigen sie dazu, mit der Zeit ineffizient zu werden. Um Ihnen bei der Lösung solcher Probleme zu helfen, biete ich eine Nutzungsanalyse, Optimierung und eine moderne Überwachungsplattform an. Meine Erfahrung umfasst Produkte wie MySQL, PostgreSQL und MS-SQL Server.</p>
     </div>
 </div>
 
