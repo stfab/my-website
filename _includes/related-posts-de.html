@@ -1,5 +1,5 @@
 <div class="related">
-  <h2>Related Posts</h2>
+  <h2>Ähnliche Artikel</h2>
   {% assign related_posts = site.posts | where_exp: "post", "post.tags contains page.tags.first" %}
   {% assign related_posts = related_posts | where_exp: "post", "post.title != page.title" %}
   {% assign related_posts = related_posts | where_exp: "post", "post.lang contains 'de'" %}
