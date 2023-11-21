@@ -1,5 +1,5 @@
 ---
-layout: post-de
+layout: post
 title: "Buildbot as open-source CI/CD alternative"
 description: "Buildbot is a powerful, open-source CI/CD system which offers a flexible configuration that comprises mostly Python code."
 author: "Fabian Stadler"
@@ -18,7 +18,7 @@ However, you don't always want to rely on a commercial platform that makes you d
 
 ## Master server as central interface
 
-![](/assets/img/buildbot_architecture.png)
+![A diagram of the architecture of Buildbot](/assets/img/buildbot_architecture.png)
 _Buildbot uses a master-worker pattern as architecture, image source: [Buildbot](http://docs.buildbot.net/current/manual/introduction.html)_
 
 At its core, Buildbot is quite similar to the large CI/CD systems mentioned above. However, it is focussed precisely on its use case, i.e. it does not offer code management, an artefact repository or a sprint dashboard.
@@ -27,7 +27,7 @@ The main application, also known as the build master, ensures that continuous in
 
 For example, Buildbot supports code management systems such as Git and Subversion, which can also be automatically queried and checked for changes. It is also possible to connect artefact repositories for built code. Last but not least, users have access to a clearly organised web application in which they can manually view the running CI/CD pipelines.
 
-![](/assets/img/buildbot_example_web.png)
+![An image of the landing page from the Buildbot web interface](/assets/img/buildbot_example_web.png)
 _A clear web interface simplifies the overview, image source: [Limepepper](https://limepepper.co.uk/techtiles/buildbot.html)_
 
 ## Connection of different environments
@@ -42,7 +42,7 @@ This is then available for any jobs that the master server assigns to this worke
 
 The latter is done by specifying to the builder, the link between the scheduler and the finished job, which workers it may use. The manner, i.e. how often and when certain jobs should run, can also be set via the scheduler used, which manages under which circumstances or whether a job should be executed periodically.
 
-![](/assets/img/buildbot_config_architecture.png)
+![A diagram of the individual components of the Buildmaster](/assets/img/buildbot_config_architecture.png)
 _The build master controls several individual components, image source: [Buildbot](http://docs.buildbot.net/current/manual/introduction.html)_
 
 Unfortunately, Buildbot does not offer a graphical editor for such purposes, which could be used to edit the configuration without programming knowledge. Other systems are more advanced here and even offer ready-made templates. There are even only a few parameters available for the configuration in the interface, so that you have to adapt the configuration file and reload the system. At least buildbot offers a tool called `bbc`, buildbot check, to check the configuration for syntactical correctness before reloading.
@@ -69,7 +69,7 @@ Of course, this can also be a disadvantage, as you have no guarantee from the pr
 
 ## Constant costs vs. high costs when needed
 
-![](/assets/img/man-362150_640.jpg)
+![Picture of a man lying under an old Beetle carrying out repairs](/assets/img/man-362150_640.jpg)
 _Like an old car, you can repair Buildbot by yourself, image source: [RyanMcGuire](https://pixabay.com/de/photos/mann-wagen-reparatur-autoreparatur-362150/)_
 
 At the same time, it can also be an advantage to rely on Buildbot, as the code can be adapted at any time, even if the developer has not yet implemented a certain bugfix or functionality.
@@ -86,7 +86,7 @@ If you really need a quick fix, in the case of Buildbot you can also rely on ext
 
 ## Enterprise workloads are no problem
 
-![](/assets/img/buildbot_multimaster.png)
+![Diagram of the Multimaster setup from Buildbot](/assets/img/buildbot_multimaster.png)
 _Buildbot can be scaled by using a Multimaster setup, image source: [Buildbot](http://docs.buildbot.net/current/manual/configuration/multimaster.html)_
 
 Even hundreds of pipelines are no problem for Buildbot in a setup with a single master. With a large number of users and many changes, however, it can become slow, at least in the web interface.

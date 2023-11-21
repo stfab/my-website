@@ -18,7 +18,7 @@ Aber nicht immer möchte man auf eine kommerzielle Plattform setzen, bei der man
 
 ## Master-Server als zentrale Schnittstelle
 
-![](/assets/img/buildbot_architecture.png)
+![Ein Schaubild der Architektur von Buildbot](/assets/img/buildbot_architecture.png)
 _Buildbot verwendet ein Master-Worker-Pattern als Architektur, Bildquelle: [Buildbot](http://docs.buildbot.net/current/manual/introduction.html)_
 
 Buildbot ist im Kern den oben genannten großen CI/CD-Systemen recht ähnlich. Allerdings ist es genau auf seinen Anwendungsfall fokussiert, bietet also kein Code-Management, kein Artefakt-Repository und auch kein Sprint-Dashboard.
@@ -27,7 +27,7 @@ Die Hauptanwendung, auch Buildmaster genannt, stellt sicher, dass das Continuous
 
 So unterstützt Buildbot unter anderem Codeverwaltungssysteme wie Git und Subversion, die auch automatisch abgefragt und auf Änderungen überprüft werden können. Darüber hinaus ist auch die Anbindung von Artefakt-Repositories für gebauten Code möglich. Nicht zuletzt steht den Anwendern eine übersichtliche Webanwendung zur Verfügung, in der sie manuell Einblick in die laufenden CI/CD-Pipelines nehmen können.
 
-![](/assets/img/buildbot_example_web.png)
+![Ein Bild der Landingpage von der Buildbot Weboberfläche](/assets/img/buildbot_example_web.png)
 _Eine übersichtliche Weboberfläche vereinfacht die Übersicht, Bildquelle: [Limepepper](https://limepepper.co.uk/techtiles/buildbot.html)_
 
 ## Anbindung unterschiedlicher Umgebungen
@@ -42,7 +42,7 @@ Dieser steht dann für beliebige Jobs bereit, die der Master-Server eben diesem 
 
 Letzteres geschieht, indem man dem Builder, dem Bindeglied zwischen dem Scheduler und dem fertigen Job, vorgibt, welche Worker er verwenden darf. Auch die Art und Weise, also wie oft und wann bestimmte Jobs laufen sollen, lässt sich über den verwendeten Scheduler einstellen, der verwaltet, unter welchen Umständen oder ob ein Job periodisch ausgeführt werden soll.
 
-![](/assets/img/buildbot_config_architecture.png)
+![Ein Schaubild der einzelnen Komponenten des Buildmasters](/assets/img/buildbot_config_architecture.png)
 _Der Buildmaster steuert mehrere Einzelkomponenten, Bildquelle: [Buildbot](http://docs.buildbot.net/current/manual/introduction.html)_
 
 Leider bietet Buildbot für solche Zwecke keinen grafischen Editor, mit dem man die Konfiguration auch ohne Programmierkenntnisse bearbeiten könnte. Andere Systeme sind hier weiter und bieten sogar vorgefertigte Templates an. Es sind sogar nur wenige Parameter für die Konfiguration in der Oberfläche verfügbar, so dass man nicht umhin kommt, die Konfigurationsdatei anzupassen und das System neu zu laden. Immerhin bietet buildbot mit `bbc`, buildbot check, ein Werkzeug, um die Konfiguration vor dem Neuladen auf syntaktische Korrektheit zu überprüfen.
@@ -69,7 +69,7 @@ Natürlich kann dies auch ein Nachteil sein, da man im Falle von Bugs keine Gara
 
 ## Konstante Kosten vs. hohe Kosten bei Bedarf
 
-![](/assets/img/man-362150_640.jpg)
+![Bild eines Manns, der unter einem alten Käfer liegend eine Reparatur vornimmt](/assets/img/man-362150_640.jpg)
 _Wie ein altes Auto lässt sich Buildbot auch selbst reparieren, Bildquelle: [RyanMcGuire](https://pixabay.com/de/photos/mann-wagen-reparatur-autoreparatur-362150/)_
 
 Gleichzeitig kann es aber auch ein Vorteil sein, auf Buildbot zu setzen, da der Code jederzeit angepasst werden kann, auch wenn der Entwickler einen bestimmten Bugfix oder eine Funktionalität noch nicht eingebaut hat.
@@ -86,7 +86,7 @@ Ist man wirklich auf einen schnellen Fix angewiesen, kann man im Falle von Build
 
 ## Enterprise Workloads sind kein Problem
 
-![](/assets/img/buildbot_multimaster.png)
+![Schaubild des Multimaster Setups von Buildbot](/assets/img/buildbot_multimaster.png)
 _Im Multimaster-Setup lässt sich Buildbot beliebig skalieren, Bildquelle: [Buildbot](http://docs.buildbot.net/current/manual/configuration/multimaster.html)_
 
 Auch hunderte von Pipelines sind für Buildbot in einem Setup mit einem einzigen Master kein Problem. Bei sehr vielen Benutzern und vielen Änderungen kann es aber zumindest im Webinterface langsam werden.
