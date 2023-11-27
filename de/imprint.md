@@ -14,6 +14,8 @@ Deutschland
 
 E-Mail: mail@fabianstadler.com
 
+USt-IdNr.: DE361455870
+
 ## Haftungsausschluss
 
 Wenn Sie weitere Informationen benötigen oder Fragen zum Haftungsausschluss haben, können Sie mich gerne per E-Mail kontaktieren.

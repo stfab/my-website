@@ -14,6 +14,8 @@ Germany
 
 E-mail: mail@fabianstadler.com
 
+VAT-ID: DE361455870
+
 ## Disclaimer
 
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact me by email.
