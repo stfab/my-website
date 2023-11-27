@@ -34,7 +34,7 @@ Durch das Sammeln und Aggregieren von Metriken, Traces und Protokollen von Micro
 Darüber hinaus kann Datadog mit der Kubernetes-Integration Kubernetes-spezifische Metriken sammeln, wie z. B. die Ressourcennutzung und die Leistung der Nodes und Pods, was dabei hilft, Probleme mit den Microservices und der Kubernetes-Infrastruktur, auf der sie laufen, zu identifizieren.
 
 ![Query Traces & Logs in Datadog](/assets/img/datadog-logexplorer.png "Query Traces & Logs in Datadog"){:style="float: center"}
-*Abfrage von Traces und Protokollen mit dem Log Explorer, Copyright: Datadog*
+*Abfrage von Traces und Protokollen mit dem Log Explorer, Bildquelle: Datadog*
 
 ## Vorteile der Verwendung von Datadog gegenüber anderen Protokolldiensten
 
@@ -104,7 +104,7 @@ Anpassbare Dashboards und Visualisierungsoptionen, wie sie Datadog anbietet, kö
 ## Erstellen Sie Berichte für Entwicklerteams und Stakeholder
 
 ![Create Dashboard Reports in Datadog](/assets/img/datadog-dashboard.png "Create Dashboard Reports in Datadog"){:style="float: center"}
-*Erstellen von Dashboard-Berichten, Copyright: Datadog*
+*Erstellen von Dashboard-Berichten, Bildquelle: Datadog*
 
 Schließlich bietet Datadog eine Vielzahl von Funktionen, die bei der Erstellung von Leistungs- und Sicherheitsberichten helfen. Mit benutzerdefinierten Dashboards können Sie Metriken, Traces und Protokolle visualisieren, um Leistungsberichte zu erstellen, die wichtige Informationen wie Antwortzeit, Fehlerrate und Durchsatz anzeigen. 
 

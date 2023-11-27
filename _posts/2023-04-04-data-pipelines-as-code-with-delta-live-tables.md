@@ -148,12 +148,12 @@ The [version](https://www.databricks.com/product/pricing/delta-live) of Delta Li
 Of course, you also have to specify the pipeline definition to be used and the database in which the data is to be stored.
 
 ![Create a DLT Pipeline](/assets/img/dlt_create_pipeline.png)
-_Create a DLT Pipeline, Copyright: Fabian Stadler_
+_Create a DLT Pipeline, Image source: Fabian Stadler_
 
 This means that one pipeline definition can also be used in multiple configurations/pipelines. This is useful if I have multiple development and production environments. It is the same with the choice of database. While I cannot call a DLT pipeline with arguments, it is still possible to do certain things differently in my code in the configuration via Spark parameters. For example, I can specify different file paths for configuration files. Or I can set certain flags that change my pipeline in different places.
 
 ![Configure the DLT Cluster](/assets/img/dlt_choose_compute.png)
-_Configure the DLT Cluster, Copyright: Fabian Stadler_
+_Configure the DLT Cluster, Image source: Fabian Stadler_
 
 ### Execution
 
@@ -168,7 +168,7 @@ The visualization of the data pipeline is done via so-called DAGs (Directed Acyc
 This brings Delta Live Tables with direct support for Data Lineage. Since the individual stages describe data transformations, it is also directly apparent which data comes from where and where it goes. This is a significant advantage over low-code platforms that offer their own tools for this.
 
 ![Overview](/assets/img/dlt_overview.png)
-_The UI of Delta Live Tables, Copyright: [Databricks](https://www.databricks.com/de/product/delta-live-tables)_
+_The UI of Delta Live Tables, Image source: [Databricks](https://www.databricks.com/de/product/delta-live-tables)_
 
 In addition, the display of the DAGs can also reload individual pipeline strings. This simplifies the handling significantly.
 

@@ -27,7 +27,7 @@ Deltatabellen erweitern zunächst das populäre Dateiformat [Apache Parquet](htt
 
 
 ![Ein Bild, das eine logische Tabellendarstellung auf der linken Seite und ihr Zeilen- und Spaltenlayout auf der linken Seite zeigt](/assets/img/parquet.png)
-_Zeilenbasierte vs. spaltenbasierte Darstellung, Copyright: [Dremio](https://www.dremio.com/resources/guides/intro-apache-parquet/)_
+_Zeilenbasierte vs. spaltenbasierte Darstellung, Bildquelle: [Dremio](https://www.dremio.com/resources/guides/intro-apache-parquet/)_
 
 
 Genauer gesagt, ist eine Parquet-Datei in so genannte Row Groups unterteilt. Diese stellen eine logische, horizontale Partitionierung der Daten in Zeilen dar. Jede Row Group enthält einen Column Chunk, d.h. einen Teil der Daten für eine bestimmte Spalte. Dieser ist garantiert zusammenhängend, was das Lesen von Datensätzen mit deutlich mehr Zeilen als Spalten vereinfacht. Zuletzt werden die Column Chunks noch einmal in mehrere Pages unterteilt, die hinsichtlich Kompression und Kodierung unteilbar sind.
@@ -85,7 +85,7 @@ Der größte Teil der Daten wird in Deltatabellen auf billigem Speicher in der C
 
 
 ![Ein Bild zeigt die drei Architekturen Data Warehose, Data Lake und Data Lakehouse nebeneinander](/assets/img/data-lakehouse-new-1024x538.png)
-_Das Data Lakehouse bietet rohe und kuratierte Daten, Copyright: [Databricks](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)_
+_Das Data Lakehouse bietet rohe und kuratierte Daten, Bildquelle: [Databricks](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)_
 
 
 Die Metadatenschicht fungiert als eine einzige Quelle der Wahrheit für alle Daten. Dies ist ein enormer Vorteil, denn so können Sie alle Daten an einem Ort und nicht in verschiedenen Systemen verwalten. Sie können externe Tabellen in verschiedenen Formaten hinzufügen, z. B. CSV, JSON, Parquet und so weiter. Darüber hinaus werden Ihre kuratierten Daten in produktionsreifen Deltatabellen gespeichert, die für analytische Arbeitslasten optimiert sind. Es ist sogar möglich, Tabellen von anderen Cloud-Anbietern hinzuzufügen, während Ihre Metadatenschicht als einziger Einstiegspunkt dient.

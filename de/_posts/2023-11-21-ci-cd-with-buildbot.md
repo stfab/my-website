@@ -14,7 +14,7 @@ lang: de
 
 CI/CD-Software ist mittlerweile zu einem Standard für Entwicklungsabteilungen verschiedenster Branchen geworden. Und so gibt es mittlerweile Services von verschiedensten Anbietern, die alle mehr oder weniger ihre Daseinsberechtigung haben. Beispiele sind Microsoft mit Azure Devops Pipelines, Gitlab mit Gitlab CI, Atlassian mit Atlassian Bamboo oder Github mit Github Actions.
 
-Aber nicht immer möchte man auf eine kommerzielle Plattform setzen, bei der man sich unter anderem von weiteren Technologien des gleichen Anbieters abhängig macht. Daher möchte ich im Folgenden auf eine quelloffene Alternative namens [Buildbot](https://www.buildbot.net/) eingehen, mit der ich in den letzten Monaten arbeiten durfte und die den meisten nicht bekannt sein dürfte.
+Aber nicht immer möchte man auf eine kommerzielle Plattform setzen, bei der man sich unter anderem von weiteren Technologien des gleichen Anbieters abhängig macht. Daher möchte ich im Folgenden auf eine quelloffene Alternative namens [Buildbot](https://www.buildbot.net/) eingehen, mit der ich in den letzten Monaten arbeitete.
 
 ## Master-Server als zentrale Schnittstelle
 

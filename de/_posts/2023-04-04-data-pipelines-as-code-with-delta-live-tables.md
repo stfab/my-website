@@ -17,9 +17,9 @@ Da ich mich bereits seit über einem Jahr mit verschiedenen Anwendungsfällen au
 
 ## Warum ein anderes ETL-Framework?
 
-Delta Live Tables basiert auf der Idee des Data Lakehouse. Dabei handelt es sich um einen Ansatz, der traditionelle Data Warehouses mit Data Lakes vereint und viele Vorteile bietet. Wenn Sie mit diesem Thema noch nicht vertraut sind, sollten Sie sich meinen früheren [Beitrag](/2023/04/data-lakehouse-as-single-source-of-truth.html) ansehen, in dem ich das Konzept des Data Lakehouse ausführlicher erkläre. 
+Delta Live Tables basiert auf der Idee des Data Lakehouse. Dabei handelt es sich um einen Ansatz, der traditionelle Data Warehouses mit Data Lakes vereint und viele Vorteile bietet. Wenn Sie mit diesem Thema noch nicht vertraut sind, sollten Sie sich meinen früheren [Beitrag](/de/2023/04/data-lakehouse-as-single-source-of-truth.html) ansehen, in dem ich das Konzept des Data Lakehouse ausführlicher erkläre. 
 
-Darüber hinaus ist Delta Live Tables eine Mischung aus gängigen ETL-Ansätzen. Diese werden in der Regel entweder als Low-Code oder High-Code umgesetzt. Sehen Sie sich unbedingt meinen letzten [Beitrag](/2023/04/low-code-vs-high-code.html) über die Vorteile dieser Konzepte für die Datenverarbeitung an. Daraus können Sie ersehen, warum Databricks eine neue Strategie für sein ETL-Framework verfolgen könnte.
+Darüber hinaus ist Delta Live Tables eine Mischung aus gängigen ETL-Ansätzen. Diese werden in der Regel entweder als Low-Code oder High-Code umgesetzt. Sehen Sie sich unbedingt meinen letzten [Beitrag](/de/2023/04/low-code-vs-high-code.html) über die Vorteile dieser Konzepte für die Datenverarbeitung an. Daraus können Sie ersehen, warum Databricks eine neue Strategie für sein ETL-Framework verfolgen könnte.
 
 ## Delta Live Tables - ein Hybrid?
 
@@ -176,14 +176,14 @@ Natürlich müssen Sie auch die zu verwendende Pipeline-Definition und die Daten
 
 
 ![Eine DLT-Pipeline erstellen](/assets/img/dlt_create_pipeline.png)
-_Erstellen einer DLT-Pipeline, Copyright: Fabian Stadler_
+_Erstellen einer DLT-Pipeline, Bildquelle: Fabian Stadler_
 
 
 Das bedeutet, dass eine Pipeline-Definition auch in mehreren Konfigurationen/Pipelines verwendet werden kann. Dies ist nützlich, wenn ich mehrere Entwicklungs- und Produktionsumgebungen habe. Das Gleiche gilt für die Wahl der Datenbank. Obwohl ich eine DLT-Pipeline nicht mit Argumenten aufrufen kann, ist es dennoch möglich, bestimmte Dinge in meinem Code in der Konfiguration über Spark-Parameter anders zu machen. Zum Beispiel kann ich unterschiedliche Dateipfade für Konfigurationsdateien angeben. Oder ich kann bestimmte Flags setzen, die meine Pipeline an verschiedenen Stellen verändern.
 
 
 ![DLT-Cluster konfigurieren](/assets/img/dlt_choose_compute.png)
-Konfigurieren Sie den DLT-Cluster, Copyright: Fabian Stadler_
+Konfigurieren Sie den DLT-Cluster, Bildquelle: Fabian Stadler_
 
 
 ### Ausführung
@@ -205,7 +205,7 @@ Dies bringt Delta Live Tables mit direkter Unterstützung für Data Lineage. Da 
 
 
 ![Übersicht](/assets/img/dlt_overview.png)
-_Die Benutzeroberfläche von Delta Live Tables, Copyright: [Databricks](https://www.databricks.com/de/product/delta-live-tables)_
+_Die Benutzeroberfläche von Delta Live Tables, Bildquelle: [Databricks](https://www.databricks.com/de/product/delta-live-tables)_
 
 
 Darüber hinaus kann die Anzeige der DAGs auch einzelne Pipelinestrings nachladen. Dies vereinfacht die Handhabung erheblich.

@@ -6,7 +6,7 @@ author: "Fabian Stadler"
 categories: [tech,journal]
 tags: [tools]
 image: assets/img/github-copilot.jpeg
-image_description: "An image of the GitHub Copilot logo."
+image_description: "Ein Bild vom GitHub Copilot Logo."
 permalink: de/2023/01/i-tested-github-copilot.html
 lang: de
 ---

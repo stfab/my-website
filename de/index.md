@@ -52,10 +52,10 @@ permalink: de/index.html
     <div class="profile">
         <img src="/assets/img/fabian_stadler.jpg" alt="Profile image">
         <h1>Fabian Stadler</h1>
-        <h5 class="post-date">Freiberuflicher Software-Ingenieur</h5>
+        <h5 class="post-date">Senior Software-Ingenieur</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler ist ein Senior Software-Ingenieur mit mehrjähriger Entwicklungserfahrung. Nach seinem Mathematikstudium hat er für Unternehmen in den Bereichen öffentlicher Verkehr, Pharma und Chemie gearbeitet.</p>
+        <p>Fabian Stadler ist ein Senior Software-Ingenieur mit langähriger Entwicklungserfahrung. Nach seinem Mathematikstudium hat er unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}

@@ -26,7 +26,7 @@ By collecting and aggregating metrics, traces, and logs from the microservices a
 Additionally, with the Kubernetes integration, Datadog can collect Kubernetes-specific metrics, such as resource usage and performance of the nodes and pods, which helps to identify issues with the microservices and the Kubernetes infrastructure they are running on.
 
 ![Query Traces & Logs in Datadog](/assets/img/datadog-logexplorer.png "Query Traces & Logs in Datadog"){:style="float: center"}
-*Query Traces & Logs With The Log Explorer, Copyright: Datadog*
+*Query Traces & Logs With The Log Explorer, Image source: Datadog*
 
 ## Advantages of using Datadog over other log services
 
@@ -97,7 +97,7 @@ Customizable dashboards and visualization options, such as those provided by Dat
 ## Generate reports for dev teams and stakeholders
 
 ![Create Dashboard Reports in Datadog](/assets/img/datadog-dashboard.png "Create Dashboard Reports in Datadog"){:style="float: center"}
-*Create Dashboard Reports, Copyright: Datadog*
+*Create Dashboard Reports, Image source: Datadog*
 
 Finally, Datadog offers a variety of features to help generate performance and security reports. With custom dashboards, you can visualize metrics, traces, and logs to create performance reports that display key information such as response time, error rate, and throughput. 
 

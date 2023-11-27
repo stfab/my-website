@@ -12,7 +12,7 @@ lang: de
 ---
 
 
-In den hybriden Szenarien, die ich kürzlich in meinem [Beitrag über das Data Lakehouse](/2023/04/data-lakehouse-as-single-source-of-truth.html) erwähnt habe und die immer noch die Branche dominieren, werden Spark-Maschinen oft an vielen Stellen eingesetzt, um Datentransformationen durchzuführen. In diesem Zusammenhang ist Spark als Open-Source-System mit hocheffizienter verteilter Datenverarbeitung fast zum Standard geworden.
+In den hybriden Szenarien, die ich kürzlich in meinem [Beitrag über das Data Lakehouse](/de/2023/04/data-lakehouse-as-single-source-of-truth.html) erwähnt habe und die immer noch die Branche dominieren, werden Spark-Maschinen oft an vielen Stellen eingesetzt, um Datentransformationen durchzuführen. In diesem Zusammenhang ist Spark als Open-Source-System mit hocheffizienter verteilter Datenverarbeitung fast zum Standard geworden.
 
 
 Allerdings ist Spark allein auch für erfahrene Entwickler zunächst eine zu überwindende Hürde. Hinzu kommen zeitaufwändige Optimierungsarbeiten, wenn man beispielsweise mit komplexen Python-Workflows arbeitet. Der Entwickler muss an vielen Stellen selbst aktiv werden, um das Bestmögliche herauszuholen und Kosten zu sparen. Dies bringt ein Dilemma mit sich, das in der Vergangenheit mit verschiedenen Ansätzen zu lösen versucht wurde.
@@ -21,7 +21,7 @@ Allerdings ist Spark allein auch für erfahrene Entwickler zunächst eine zu üb
 Eine zentrale Frage, die sich Unternehmen oft stellen, ist, wie sie mit einfachen Mitteln schnell redundante Prozesse umsetzen können. Sie wollen sich nicht zu sehr in die Abhängigkeit von teuren Spezialisten begeben. Ziel ist es also, schnell zur Lösung zu kommen und sie auch für Nicht-Spezialisten einigermaßen einfach bedienbar zu machen. Geringe Personal- und Entwicklungskosten gegenüber höheren Betriebskosten.
 
 
-![Ein Cartoon-Bild eines Eisbergs, der zu 80% unter Wasser liegt und nur eine kleine Spitze sichtbar ist.](/assets/img/iceberg.jpg)_Anfangskosten entsprechen oft der Spitze eines Eisbergs, Copyright: [Pixabay](https://pixabay.com/de/illustrations/eisberg-wasser-blau-ozean-eis-1421411/)_
+![Ein Cartoon-Bild eines Eisbergs, der zu 80% unter Wasser liegt und nur eine kleine Spitze sichtbar ist.](/assets/img/iceberg.jpg)_Anfangskosten entsprechen oft der Spitze eines Eisbergs, Bildquelle: [Pixabay](https://pixabay.com/de/illustrations/eisberg-wasser-blau-ozean-eis-1421411/)_
 
 
 ## Low-code - Der einfache Weg
@@ -46,7 +46,7 @@ Einige Low-Code-Plattformen bieten hierfür bestimmte Mischformen an, zum Beispi
 
 
 ![Ein Bild, das die Schnittstelle von Azure Data Mapping Data Flows beim Erstellen einer neuen Quelle am Anfang einer Pipeline zeigt](/assets/img/mapping_data_flow.png)
-_Erstellung von ETL-Pipelines in einem Browser mit Data Factory, Copyright: [Microsoft](https://learn.microsoft.com/de-de/azure/data-factory/concepts-data-flow-overview)_
+_Erstellung von ETL-Pipelines in einem Browser mit Data Factory, Bildquelle: [Microsoft](https://learn.microsoft.com/de-de/azure/data-factory/concepts-data-flow-overview)_
 
 
 Viele Unternehmen werden daher weiterhin auf andere Drittanbieter zurückgreifen müssen, die die externe Ausführung von komplexem Code ermöglichen. Am Beispiel von Azure Data Factory bieten zum Beispiel HDInsight oder Databricks diese Möglichkeit, aber auch Azure Functions kann für diesen Zweck genutzt werden. In Azure Synapse Analytics gibt es zumindest die Möglichkeit, Code auf On-Demand-Clustern mit sogenannten Notebooks auszuführen. Das Gleiche gilt für vergleichbare Lösungen in AWS oder Google Cloud.
@@ -68,7 +68,7 @@ Mit High-Code ist es auch möglich, sehr optimierte und vereinfachte Frameworks 
 
 
 ![Ein Code-Beispiel des Python-Frameworks bonobo, das zeigt, wie man CSV-Daten mit einem CSV-Reader extrahiert, aus Name und Domain ein E-Mail-Ratefeld hinzufügt und es mit einem CSV-Writer wieder schreibt](/assets/img/bonobo.png)
-_Schreiben von Datenpipelines in High-Code mit Bonobo, Copyright: [Bonobo](https://www.bonobo-project.org/)_
+_Schreiben von Datenpipelines in High-Code mit Bonobo, Bildquelle: [Bonobo](https://www.bonobo-project.org/)_
 
 
 Gute Entwicklerteams sind aber auch in der Lage, solche Frameworks für die jeweiligen Anforderungen zu entwickeln. Damit hätte man eine einheitliche Plattform, die sowohl einfache als auch komplexe Datenpipelines schnell herstellbar macht. Nur eben nicht mit einem hübschen grafischen Editor.

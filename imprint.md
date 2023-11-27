@@ -2,7 +2,7 @@
 layout: page
 title: Imprint
 description: "This page contains the imprint for fabianstadler.com according to the German Telemedia Act (TMG)."
-permalink: p/imprint.html
+permalink: imprint.html
 ---
 
 Information according to § 5 TMG:

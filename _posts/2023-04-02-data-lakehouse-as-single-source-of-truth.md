@@ -22,7 +22,7 @@ In this particular project, we mainly worked with Azure Data Factory and Azure D
 First, delta tables extend the popular file format [Apache Parquet](https://parquet.apache.org/). This, in turn, is a column-oriented data file format designed for efficient data storage and retrieval. You can think of it this way: in a Parquet file, each column is stored as a contiguous unit, one after the other. This is in contrast to row-based formats, such as CSV or JSON.
 
 ![An image showing a logical table representation on the left and its row layout and column layout on the left.](/assets/img/parquet.png)
-_Row-based vs. Column-based Representation, Copyright: [Dremio](https://www.dremio.com/resources/guides/intro-apache-parquet/)_
+_Row-based vs. Column-based Representation, Image source: [Dremio](https://www.dremio.com/resources/guides/intro-apache-parquet/)_
 
 More precisely, a Parquet file is divided into so-called Row Groups. These represent a logical, horizontal partitioning of the data in rows. Each Row Group contains a Column Chunk, i.e. a part of the data for a specific column. This is guaranteed to be contiguous, which simplifies reading data sets with significantly more rows than columns. Last, the Column Chunks are once again divided into several Pages, which are indivisible regarding compression and encoding.
 
@@ -61,7 +61,7 @@ Instead of using Spark clusters or other servers only for transforming unstructu
 The main part of the data is stored in delta tables on cheap storage in the cloud. But unlike in a traditional data lake, the access is regulated by a new metadata layer that manages all objects in data catalogs. This also includes rights management, as well as other data origin information for data lineage. 
 
 ![An image showing the three architectures of the Data Warehose, a Data Lake, and a Data Lakehouse, side-by-side.](/assets/img/data-lakehouse-new-1024x538.png)
-_The Data Lakehouse offers raw and curated data, Copyright: [Databricks](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)_
+_The Data Lakehouse offers raw and curated data, Image source: [Databricks](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)_
 
 The metadata layer acts as a single source of truth for all data. This is a huge advantage, because it allows you to manage all data in one place, and not in several different systems. You can add external tables from various formats, such as CSV, JSON, Parquet, and so on. Further, your curated data is stored in production-ready delta tables, which are optimized for analytical workloads. It is even possible to add tables from other cloud providers while your metadata layer acts as the sole entry point.
 

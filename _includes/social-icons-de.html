@@ -1,4 +1,5 @@
 <nav class="social-icons">
-  <a class="icon" href="{{ site.github.url }}/">EN</a>
+  {% assign en_url = page.url | replace: '/de/', '' %}
+  <a class="icon" href="{{ site.github.url }}/{{ en_url }}">EN</a>
   <i type="button" class="dark-mode-toggle fas fa-toggle-off"></i>
 </nav>
