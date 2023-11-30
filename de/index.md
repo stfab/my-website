@@ -14,33 +14,25 @@ permalink: de/index.html
 
 <div class="home-section">
     <div class="right">
-        <h3>Datenanalyse, Migration & Mining</h3>
-        <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
-        <p>Viele Unternehmen nutzen Tracking-Software und CRM-Systeme, um Daten über ihre Kunden zu sammeln. Allerdings sind diese Daten oft über viele Dienste verteilt. Ich werde Ihre Daten in einen einzigen Langzeitspeicher bringen und eine Plattform schaffen, mit der Sie die wichtigsten KPIs reibungslos analysieren können. Hierfür verwende ich unter anderem Tools wie Azure Data Factory, Databricks und eigenen Code.</p>
+        <h3>Datenmigration</h3>
+        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
+        <p>Bei der Migration von Daten in neue Systeme benötigen Sie eine robuste und hochperformante Lösung. Ich erstelle für Sie ein Datenmapping und implementiere eine Lösung, die Ihre Daten sicher und zuverlässig in das Zielsystem überträgt. Gerne unterstütze ich Sie auch bei der Wartung existierender Lösungen.</p>
     </div>
 </div>
 
 <div class="home-section">
     <div class="left">
-        <h3>Cloud-Entwicklung & Migration</h3>
-        <img src="/assets/img/cloud.jpg" alt="Image of a cloud that is shaped lika a heart">
-        <p>Die Verlagerung von Geschäftsanwendungen in die Cloud kann Ihnen helfen, Kosten zu senken und Ihr Unternehmen flexibler zu machen. Ich migriere Ihre Anwendungen maßgeschneidert auf On-Demand-Dienste in der Microsoft Azure Cloud. Auf diese Weise können Sie Ihre Anwendungen nach Ihren Bedürfnissen skalieren und zahlen nur für das, was Sie nutzen.</p>
+        <h3>Datenaufbereitung & Reinigung</h3>
+        <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
+        <p>Um aussagekräftige Analysen durchzuführen, müssen Daten aufbereitet und gereinigt werden. Ich automatisiere die Transformation Ihrer Daten und stelle sicher, dass Sie die richtigen Daten zur Verfügung haben. So können Sie sich auf die Analyse konzentrieren und Ihre Entscheidungen auf eine solide Datenbasis stützen.</p>
     </div>
 </div>
 
 <div class="home-section">
     <div class="right">
-        <h3>Tool-Erstellung & APIs</h3>
-        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
-        <p>Desktop- oder webbasierte Tools helfen Ihnen, Geschäftsprozesse zu automatisieren und Ihre Mitarbeiter produktiver zu machen. APIs integrieren Ihre Systeme mit denen Ihrer Partner. In der Vergangenheit habe ich an einer breiten Palette solcher Tools und APIs gearbeitet. Bei Bedarf erstelle ich Ihnen dokumentierte Tools in Programmiersprachen wie Python, C#, Java und gängigen Frameworks.</p>
-    </div>
-</div>
-
-<div class="home-section">
-    <div class="left">
-        <h3>Datenbank Überwachung & Optimierung</h3>
-        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk">
-        <p>Datenbanken sind das Herzstück jeder datengesteuerten Anwendung. Allerdings neigen sie dazu, mit der Zeit ineffizient zu werden. Um Ihnen bei der Lösung solcher Probleme zu helfen, biete ich eine Nutzungsanalyse, Optimierung und eine moderne Überwachungsplattform an. Meine Erfahrung umfasst Produkte wie MySQL, PostgreSQL und MS-SQL Server.</p>
+        <h3>Qualitätssicherung</h3>
+        <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
+        <p>Datenqualität ist ein wichtiger Faktor, wenn es darum geht langfristig gute Entscheidungen zu treffen. Ich unterstütze Sie bei der Einführung von Datenqualitätsprozessen und der Implementierung von Datenqualitätsmetriken. So erhalten Sie jederzeit einen Überblick über die Qualität Ihrer Daten und können auf Veränderungen reagieren.</p>
     </div>
 </div>
 
@@ -55,7 +47,7 @@ permalink: de/index.html
         <h5 class="post-date">Senior Software-Ingenieur</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler ist ein Senior Software-Ingenieur mit langähriger Entwicklungserfahrung. Nach seinem Mathematikstudium hat er unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
+        <p>Fabian Stadler ist Senior Software-Ingenieur mit über 6 Jahren Erfahrung in der Verarbeitung von Daten. Nach seinem Mathematikstudium hat er unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}
