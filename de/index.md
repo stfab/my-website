@@ -13,34 +13,27 @@ permalink: de/index.html
 ## Lösungen
 
 <div class="home-section">
-    <div class="right">
-        <h3>Datenmigration</h3>
-        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
-        <p>Bei der Migration von Daten in neue Systeme benötigen Sie eine robuste und hochperformante Lösung. Ich erstelle für Sie ein Datenmapping und implementiere eine Lösung, die Ihre Daten sicher und zuverlässig in das Zielsystem überträgt. Gerne unterstütze ich Sie auch bei der Wartung existierender Lösungen.</p>
+    <div class="left">
+        <h3>PostgreSQL</h3>
+        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk">
+        <p>PostgreSQL ist eine der beliebtesten und mächtigsten Open-Source-Datenbanken. Ich unterstütze Sie bei der Integration und Wartung Ihrer Datenbank. Gerne helfe ich Ihnen auch bei der Verwaltung und Überwachung Ihrer PostgreSQL-Instanzen, damit Sie schnell und effizient auf Ihre Daten zugreifen können.</p>
     </div>
 </div>
+
+<div class="home-section">
+    <div class="right">
+        <h3>Nachrichtenbroker</h3>
+        <img src="/assets/img//cloud.jpg" alt="Image of a cloud">
+        <p>Verteilte Systeme müssen jederzeit miteinander kommunizieren können. Um dies zu ermöglichen, übernehme ich die Implementierung eines geeigneten Nachrichtenbrokers wie Apache Kafka oder RabbitMQ für Sie. Auch bei der Verwaltung und Wartung von Nachrichtenbrokern stehe ich Ihnen gerne zur Seite.</p>
+    </div>
+</div>
+
 
 <div class="home-section">
     <div class="left">
-        <h3>Datenaufbereitung & Reinigung</h3>
-        <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
-        <p>Um aussagekräftige Analysen durchzuführen, müssen Daten aufbereitet und gereinigt werden. Ich automatisiere die Transformation Ihrer Daten und stelle sicher, dass Sie die richtigen Daten zur Verfügung haben. So können Sie sich auf die Analyse konzentrieren und Ihre Entscheidungen auf eine solide Datenbasis stützen.</p>
-    </div>
-</div>
-
-<div class="home-section">
-    <div class="right">
-        <h3>Qualitätssicherung</h3>
+        <h3>NoSQL-Datenbanken</h3>
         <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>Datenqualität ist ein wichtiger Faktor, wenn es darum geht langfristig gute Entscheidungen zu treffen. Ich unterstütze Sie bei der Einführung von Datenqualitätsprozessen und der Implementierung von Datenqualitätsmetriken. So erhalten Sie jederzeit einen Überblick über die Qualität Ihrer Daten und können auf Veränderungen reagieren.</p>
-    </div>
-</div>
-
-<div class="home-section">
-    <div class="left">
-        <h3>Systemintegration & Administration</h3>
-        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
-        <p>Als Datenspezialist habe ich mich auf den Umgang mit Nachrichtenbrokern wie Kafka und RabbitMQ, sowie NoSQL-Formate wie Elasticsearch und Cassandra spezialisiert. Ich unterstütze Sie bei der Integration dieser Systeme in Ihre bestehende IT-Landschaft und übernehme die Verwaltung und Wartung.</p>
+        <p>NoSQL-Datenbanken ermöglichen die Verarbeitung von Dokumenten, Graphen und anderen Datenstrukturen, die in relationalen Datenbanken nicht effizient gespeichert werden können. Ich unterstütze Sie bei Themen zu MongoDB, Cassandra und Elasticsearch. So können Sie Anwendungen entwickeln, die auf Ihre Daten zugeschnitten sind.</p>
     </div>
 </div>
 

@@ -12,34 +12,27 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 ## Services
 
 <div class="home-section">
-    <div class="right">
-        <h3>Data Migration</h3>
-        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
-        <p>When migrating data to new systems, you need a robust and high-performance solution. I will create a data mapping for you and implement a solution that transfers your data securely and reliably to the target system. I will also support you with the maintenance of existing solutions.</p>
+    <div class="left">
+        <h3>PostgreSQL</h3>
+        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk">
+        <p>PostgreSQL is one of the most popular and powerful open source databases. I can support you with the integration and maintenance of your database. I will also help you to manage and monitor your PostgreSQL instances so that you can access your data quickly and efficiently.</p>
     </div>
 </div>
+
+<div class="home-section">
+    <div class="right">
+        <h3>Message Brokers</h3>
+        <img src="/assets/img//cloud.jpg" alt="Image of a cloud">
+        <p>Distributed systems must be able to communicate with each other at all times. To make this possible, I implement a suitable message broker such as Apache Kafka or RabbitMQ for you. I will also assist you with the administration and maintenance of your message brokers.</p>
+    </div>
+</div>
+
 
 <div class="home-section">
     <div class="left">
-        <h3>Data Preparation & Cleaning</h3>
-        <img src="/assets/img/datamining.jpg" alt="Image of a mining site and pipes">
-        <p>In order to carry out meaningful analyses, data must be prepared and cleaned. I automate the transformation of your data and ensure that you have the right data available. This allows you to concentrate on the analyses and base your decisions on solid data.</p>
-    </div>
-</div>
-
-<div class="home-section">
-    <div class="right">
-        <h3>Quality Assurance</h3>
+        <h3>NoSQL Databases</h3>
         <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>Data quality is an important factor when it comes to making good decisions in the long term. I support you in the introduction of data quality processes and the implementation of data quality metrics. This gives you an overview of the quality of your data at all times and enables you to react to changes.</p>
-    </div>
-</div>
-
-<div class="home-section">
-    <div class="left">
-        <h3>Systemintegration & Administration</h3>
-        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
-        <p>As a data specialist, I specialise in working with message brokers such as Kafka and RabbitMQ, as well as NoSQL formats such as Elasticsearch and Cassandra. I support you in integrating these systems into your existing IT landscape and take care of administration and maintenance.</p>
+        <p>NoSQL databases enable the processing of documents, graphs and other data structures that cannot be stored efficiently in relational databases. I support you with issues relating to MongoDB, Cassandra and Elasticsearch. This allows you to develop applications that are customised to your data.</p>
     </div>
 </div>
 
