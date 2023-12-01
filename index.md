@@ -6,36 +6,42 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 
 <section class="index-header">
     <img src="/assets/img/company_logo.jpg" alt="Company logo of Fabian Stadler Solutions">
-    <div class="centered"><h2>Enabling Data - Driving Results</h2></div>
+    <div class="centered"><h2>Success Through Continuous Integration</h2></div>
 </section>
 
 ## Services
 
 <div class="home-section">
+    <div class="right">
+        <h3>Planning & Integration</h3>
+        <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
+        <p>CI/CD systems sustainably promote the continuous quality assurance and delivery of software. I support you in the planning and implementation of such solutions. For this, I rely on open source and extensible products such as Jenkins, Buildbot, Travis CI or GitLab.</p>
+    </div>
+</div>
+
+<div class="home-section">
     <div class="left">
-        <h3>PostgreSQL</h3>
-        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk">
-        <p>PostgreSQL is one of the most popular and powerful open source databases. I can support you with the integration and maintenance of your database. I will also help you to manage and monitor your PostgreSQL instances so that you can access your data quickly and efficiently.</p>
+        <h3>Administration & Management</h3>
+        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
+        <p>In order to deliver software on different platforms, efficient management of test systems is essential. I will help you implement an efficient build and test strategy and create a reusable provisioning of your machines with tools such as Ansible or Docker.</p>
     </div>
 </div>
 
 <div class="home-section">
     <div class="right">
-        <h3>Message Brokers</h3>
-        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
-        <p>Distributed systems must be able to communicate with each other at all times. To make this possible, I implement a suitable message broker such as Apache Kafka or RabbitMQ for you. I will also assist you with the administration and maintenance of your message brokers.</p>
+        <h3>Plugin Development</h3>
+        <img src="/assets/img/lightbulb-3104355_640.jpg" alt="Image of a lightbulb">
+        <p>Existing software solutions do not always cover all requirements. If you ever need more functions, I can develop plugins or services for you that extend your system. Integration into other systems in your IT landscape, such as ticket systems or collaboration platforms, is also possible.</p>
     </div>
 </div>
-
 
 <div class="home-section">
     <div class="left">
-        <h3>NoSQL Databases</h3>
-        <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>NoSQL databases enable the processing of documents, graphs and other data structures that cannot be stored efficiently in relational databases. I support you with issues relating to MongoDB, Cassandra and Elasticsearch. This allows you to develop applications that are customised to your data.</p>
+        <h3>Maintenance & Safety</h3>
+        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk"> 
+        <p>Even the most stable system requires maintenance and care. I will contact you about important updates and help with the planning and implementation of backup and recovery strategies. I am also happy to take care of the connection of a monitoring system. This ensures that you always fulfil the requirements for data protection and data security.</p>
     </div>
 </div>
-
 ----
 
 ## About
@@ -47,7 +53,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
         <h5 class="post-date">Senior Software Engineer</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler is a senior software engineer with more than 6 years of experience in processing data. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
+        <p>Fabian Stadler is a senior software engineer with more than 6 years of experience with CI/CD systems. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}
