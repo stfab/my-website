@@ -35,6 +35,14 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
     </div>
 </div>
 
+<div class="home-section">
+    <div class="left">
+        <h3>Systemintegration & Administration</h3>
+        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
+        <p>As a data specialist, I specialise in working with message brokers such as Kafka and RabbitMQ, as well as NoSQL formats such as Elasticsearch and Cassandra. I support you in integrating these systems into your existing IT landscape and take care of administration and maintenance.</p>
+    </div>
+</div>
+
 ----
 
 ## About

@@ -36,6 +36,14 @@ permalink: de/index.html
     </div>
 </div>
 
+<div class="home-section">
+    <div class="left">
+        <h3>Systemintegration & Administration</h3>
+        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
+        <p>Als Datenspezialist habe ich mich auf den Umgang mit Nachrichtenbrokern wie Kafka und RabbitMQ, sowie NoSQL-Formate wie Elasticsearch und Cassandra spezialisiert. Ich unterstütze Sie bei der Integration dieser Systeme in Ihre bestehende IT-Landschaft und übernehme die Verwaltung und Wartung.</p>
+    </div>
+</div>
+
 ----
 
 ## Über
