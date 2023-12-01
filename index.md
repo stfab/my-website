@@ -22,7 +22,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
 <div class="home-section">
     <div class="right">
         <h3>Message Brokers</h3>
-        <img src="/assets/img//cloud.jpg" alt="Image of a cloud">
+        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
         <p>Distributed systems must be able to communicate with each other at all times. To make this possible, I implement a suitable message broker such as Apache Kafka or RabbitMQ for you. I will also assist you with the administration and maintenance of your message brokers.</p>
     </div>
 </div>

@@ -23,7 +23,7 @@ permalink: de/index.html
 <div class="home-section">
     <div class="right">
         <h3>Nachrichtenbroker</h3>
-        <img src="/assets/img//cloud.jpg" alt="Image of a cloud">
+        <img src="/assets/img/cloud.jpg" alt="Image of a cloud">
         <p>Verteilte Systeme müssen jederzeit miteinander kommunizieren können. Um dies zu ermöglichen, übernehme ich die Implementierung eines geeigneten Nachrichtenbrokers wie Apache Kafka oder RabbitMQ für Sie. Auch bei der Verwaltung und Wartung von Nachrichtenbrokern stehe ich Ihnen gerne zur Seite.</p>
     </div>
 </div>
