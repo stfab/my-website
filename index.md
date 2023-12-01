@@ -53,7 +53,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
         <h5 class="post-date">Senior Software Engineer</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler is a senior software engineer with more than 6 years of experience with CI/CD systems. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
+        <p>Fabian Stadler is a senior software engineer with more than 6 years of experience in CI/CD systems. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}

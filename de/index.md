@@ -55,7 +55,7 @@ permalink: de/index.html
         <h5 class="post-date">Senior Software-Ingenieur</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler ist Senior Software-Ingenieur mit über 6 Jahren Erfahrung mit CI/CD-Systemen. Nach seinem Mathematikstudium hat er unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
+        <p>Fabian Stadler ist Senior Software-Ingenieur mit mehr als 6 Jahren Erfahrung mit CI/CD-Systemen. Nach seinem Mathematikstudium hat er unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}
