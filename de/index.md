@@ -16,7 +16,7 @@ permalink: de/index.html
     <div class="right">
         <h3>Planung & Integration</h3>
         <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>CI/CD-Systeme fördern nachhaltig die kontinuierliche Qualitätssicherung und Auslieferung von Software. Ich unterstütze Sie bei der Planung und Implementierung solcher Lösungen. Dabei setze ich auf Enterprise-Produkte (GitLab, TeamCity & AppVeyor) und quelloffene Lösungen (Buildbot, GoCD & Jenkins).</p>
+        <p>CI/CD-Systeme fördern nachhaltig die kontinuierliche Qualitätssicherung und Auslieferung von Software. Ich unterstütze Sie bei der Planung und Implementierung solcher Lösungen. Dabei setze ich auf Enterprise-Produkte (GitLab, TeamCity) und quelloffene Lösungen (Buildbot & Jenkins).</p>
     </div>
 </div>
 
