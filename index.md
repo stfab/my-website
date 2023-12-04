@@ -15,7 +15,7 @@ description: "Fabian Stadler is a software engineer with multiple years of exper
     <div class="right">
         <h3>Planning & Integration</h3>
         <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>CI/CD systems sustainably promote the continuous quality assurance and delivery of software. I support you in the planning and implementation of such solutions. For this, I rely on open source and extensible products such as Jenkins, Buildbot, Travis CI or GitLab.</p>
+        <p>CI/CD systems sustainably promote the continuous quality assurance and delivery of software. I support you in the planning and implementation of such solutions. For this, I rely on enterprise products (GitLab, TeamCity & AppVeyor) and open-source solutions (Buildbot, GoCD & Jenkins).
     </div>
 </div>
 
