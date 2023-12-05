@@ -1,7 +1,7 @@
 ---
 layout: page-de
 title: Posts
-description: "This page contains a list of all of the posts written by Fabian Stadler. Usually, they are about software engineering, sometimes about general issues."
+description: "Diese Seite enthält eine Liste aller Beiträge von Fabian Stadler. Meistens geht es um Software-Entwicklung, manchmal um allgemeine Themen."
 permalink: de/posts.html
 ---
 
