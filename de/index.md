@@ -1,7 +1,7 @@
 ---
 layout: default-de
 title: Startseite
-description: "Fabian Stadler ist ein Software-Ingenieur mit mehrjähriger Erfahrung in Forschung und Entwicklung. Er ist spezialisiert auf Cloud-Entwicklung und Datenintegration."
+description: "Fabian Stadler ist CI/CD Experte und unterstützt Firmen bei der Planung und Implementierung von Lösungen zur kontinuierlichen Integration und Auslieferung von Software."
 permalink: de/index.html
 ---
 

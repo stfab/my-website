@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Fabian Stadler is a software engineer with multiple years of experience in research and development. They specialize in cloud development and data integration."
+description: "Fabian Stadler is CI/CD expert and supports companies in the planning and implementation of solutions for the continuous integration and delivery of software."
 ---
 
 <section class="index-header">
