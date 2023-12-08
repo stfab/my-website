@@ -80,6 +80,6 @@ description: "Fabian Stadler is CI/CD expert and supports companies in the plann
 </table>
 
 <p class="more-articles">
-    <a href="/p/posts.html">All Articles</a>
+    <a href="/posts.html">All Articles</a>
 </p>
 
