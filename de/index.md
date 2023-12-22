@@ -24,7 +24,7 @@ permalink: de/index.html
     <div class="right">
         <h3>Systemintegration & Wartung</h3>
         <img src="/assets/img/interface-3593269_640.png" alt="Bild einer Schnittstelle">
-        <p>Unternehmen nutzen eine Vielzahl von kommerziellen Softwaresystemen. Ich unterstütze Sie von der Auswahl der richtigen Systeme bis hin zur Integration in Ihre bestehende IT-Landschaft. Dazu biete ich langfristigen Support, die Schulung Ihrer Mitarbeiter und die Anbindung von Sicherheitssystemen.</p>
+        <p>Unternehmen nutzen eine Vielzahl von kommerziellen Softwaresystemen. Ich unterstütze Sie von der Auswahl der richtigen Systeme bis hin zur Integration in Ihre bestehende IT-Landschaft. Dazu biete ich langfristigen Support, die Schulung Ihrer Mitarbeitenden und die Anbindung von Sicherheitssystemen.</p>
     </div>
 </div>
 
