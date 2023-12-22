@@ -1,45 +1,37 @@
 ---
 layout: default
 title: Home
-description: "Fabian Stadler is CI/CD expert and supports companies in the planning and implementation of solutions for the continuous integration and delivery of software."
+description: "Fabian Stadler is a senior software engineer and data protection officer (TÜV). With many years of experience, Fabian supports you in the implementation of your IT projects."
 ---
 
 <section class="index-header">
     <img src="/assets/img/company_logo.jpg" alt="Company logo of Fabian Stadler Solutions">
-    <div class="centered"><h2>Success Through Continuous Integration</h2></div>
+    <div class="centered"><h2>Enabling Data - Driving Results</h2></div>
 </section>
 
 ## Services
 
 <div class="home-section">
-    <div class="right">
-        <h3>Planning & Integration</h3>
-        <img src="/assets/img/interface-3593269_640.png" alt="Image of an interface">
-        <p>CI/CD systems sustainably promote the continuous quality assurance and delivery of software. I support you in the planning and implementation of such solutions. For this, I rely on enterprise products (GitLab, TeamCity) and open-source solutions (Buildbot, GoCD & Jenkins).</p>
-    </div>
-</div>
-
-<div class="home-section">
     <div class="left">
-        <h3>Administration & Management</h3>
-        <img src="/assets/img/toolbox.jpg" alt="Image of a toolbox">
-        <p>In order to deliver software on different platforms, efficient management of test systems is essential. I will help you implement an efficient build and test strategy and create a reusable provisioning of your machines with tools such as Ansible or Docker.</p>
+        <h3>Software Development</h3>
+        <img src="/assets/img/lightbulb-3104355_640.jpg" alt="Bild einer Glühbirne">
+        <p>Automated processes require customized software systems. I develop individual software for you that optimally supports your processes. I use modern programming languages and frameworks. I am also happy to support you in the further development of your existing software.</p>
     </div>
 </div>
 
 <div class="home-section">
     <div class="right">
-        <h3>Plugin Development</h3>
-        <img src="/assets/img/lightbulb-3104355_640.jpg" alt="Image of a lightbulb">
-        <p>Existing software solutions do not always cover all requirements. If you ever need more functions, I can develop plugins or services for you that extend your system. Integration into other systems in your IT landscape, such as ticket systems or collaboration platforms, is also possible.</p>
+        <h3>System Integration & Maintenance</h3>
+        <img src="/assets/img/interface-3593269_640.png" alt="Bild einer Schnittstelle">
+        <p>Companies use a variety of commercial software systems. I support you from the selection of the right systems through to integration into your existing IT landscape. I also offer long-term support, training for your employees and the integration of security systems.</p>
     </div>
 </div>
 
 <div class="home-section">
     <div class="left">
-        <h3>Maintenance & Safety</h3>
-        <img src="/assets/img/hard_drive_disk.jpg" alt="Image of a hard drive disk"> 
-        <p>Even the most stable system requires maintenance and care. I will contact you about important updates and help with the planning and implementation of backup and recovery strategies. I am also happy to take care of the connection of a monitoring system. This ensures that you always fulfil the requirements for data protection and data security.</p>
+        <h3>Datenschutzbeauftragte*r</h3>
+        <img src="/assets/img/hard_drive_disk.jpg" alt="Bild einer Festplatte">
+        <p>Companies with 20 or more employees are obliged to appoint a data protection officer. As a data protection officer (TÜV), I support you in implementing the General Data Protection Regulation (GDPR) and complying with data protection regulations.</p>
     </div>
 </div>
 ----
@@ -53,7 +45,7 @@ description: "Fabian Stadler is CI/CD expert and supports companies in the plann
         <h5 class="post-date">Senior Software Engineer</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler is a senior software engineer with more than 6 years of experience in CI/CD systems. They have a university degree in mathematics and have worked for companies in the public transport, pharmaceutical and chemical industries.</p>
+        <p>Fabian Stadler is a Senior Software Engineer with more than 6 years of experience in software development. After studying mathematics, Fabian worked for companies in the public transport, pharmaceutical and chemical industries, among others.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}
