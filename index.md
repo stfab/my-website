@@ -48,7 +48,7 @@ description: "Fabian Stadler is CI/CD expert and supports companies in the plann
 
 <div class="profile-section">
     <div class="profile">
-        <img src="/assets/img/fabian_stadler.jpg" alt="Profile image">
+        <img src="/assets/img/fabian_stadler.jpg" alt="Profile image" loading="eager">
         <h1>Fabian Stadler</h1>
         <h5 class="post-date">Senior Software Engineer</h5>
     </div>

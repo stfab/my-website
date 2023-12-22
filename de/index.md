@@ -6,7 +6,7 @@ permalink: de/index.html
 ---
 
 <section class="index-header">
-    <img src="/assets/img/company_logo.jpg" alt="Company logo of Fabian Stadler Solutions">
+    <img src="/assets/img/company_logo.jpg" alt="Company logo of Fabian Stadler Solutions" loading="eager">
     <div class="centered"><h2>Mit Kontinuierlicher Integration zum Erfolg</h2></div>
 </section>
 
