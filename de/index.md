@@ -32,7 +32,7 @@ permalink: de/index.html
     <div class="left">
         <h3>Datenschutzbeauftragte*r</h3>
         <img src="/assets/img/hard_drive_disk.jpg" alt="Bild einer Festplatte">
-        <p>Ab einer Größe von 20 Mitarbeitern sind Unternehmen verpflichtet, eine*n Datenschutzbeauftragte*n zu bestellen. Als Datenschutzbeauftragte*r (TÜV) unterstütze ich Sie bei der Umsetzung der Datenschutz-Grundverordnung (DSGVO) und der Einhaltung der datenschutzrechtlichen Vorgaben.</p>
+        <p>Ab einer Größe von 20 Mitarbeitenden sind Unternehmen verpflichtet, eine*n Datenschutzbeauftragte*n zu bestellen. Als Datenschutzbeauftragte*r (TÜV) unterstütze ich Sie bei der Umsetzung der Datenschutz-Grundverordnung (DSGVO) und der Einhaltung der datenschutzrechtlichen Vorgaben.</p>
     </div>
 </div>
 
