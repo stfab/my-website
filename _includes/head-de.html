@@ -8,9 +8,9 @@
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
   <!-- Use Atom -->
   {% feed_meta %}
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/jquery.all.min.css">
   <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    src="/assets/css/MathJax.js">
     MathJax.Hub.Config({
         tex2jax: {
           inlineMath: [['$', '$'], ['\\(', '\\)']]
@@ -18,9 +18,5 @@
       });
     </script>
   <!-- Add fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Joan&family=Pathway+Extreme:opsz@8..144&display=swap" rel="stylesheet">
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
+  <link href="{{ site.github.url }}/assets/css/fonts.css" rel="stylesheet">
 </head>
