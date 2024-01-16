@@ -29,9 +29,9 @@ description: "Fabian Stadler is a senior software engineer and data protection o
 
 <div class="home-section">
     <div class="left">
-        <h3>Data Protection Officer</h3>
+        <h3>Data Privacy</h3>
         <img src="/assets/img/hard_drive_disk.jpg" alt="Bild einer Festplatte">
-        <p>Companies with 20 or more employees are obliged to appoint a data protection officer. As a data protection officer (TÜV), I support you in implementing the General Data Protection Regulation (GDPR) and complying with data protection regulations.</p>
+        <p>As certified Data Protection Officer (TÜV), you can appoint me externally to fulfill the tasks for you in accordance with Art. 39 GDPR. Among other things, I can advise you on the implementation of the General Data Protection Regulation (GDPR) and the German Federal Data Protection Act (BDSG), as well as legally related regulations.</p>
     </div>
 </div>
 ----

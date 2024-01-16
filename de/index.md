@@ -30,9 +30,9 @@ permalink: de/index.html
 
 <div class="home-section">
     <div class="left">
-        <h3>Datenschutzbeauftragte*r</h3>
+        <h3>Datenschutz</h3>
         <img src="/assets/img/hard_drive_disk.jpg" alt="Bild einer Festplatte">
-        <p>Ab einer Größe von 20 Mitarbeitenden sind Unternehmen verpflichtet, eine*n Datenschutzbeauftragte*n zu bestellen. Als Datenschutzbeauftragte*r (TÜV) unterstütze ich Sie bei der Umsetzung der Datenschutz-Grundverordnung (DSGVO) und der Einhaltung der datenschutzrechtlichen Vorgaben.</p>
+        <p>Als zertifizierter Datenschutzbeauftragter (TÜV) können Sie mich extern bestellen, damit ich die Aufgaben nach Art. 39 DSGVO für Sie erfülle. Dabei berate ich Sie unter anderem zur umsetzung der Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG), sowie rechtlich verwandten Vorschriften.</p>
     </div>
 </div>
 
