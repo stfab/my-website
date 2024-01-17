@@ -8,7 +8,7 @@ tags: [data_privacy, certification]
 image: assets/img/surveillance.jpg
 image_description: Two silver, elongated surveillance cameras hang on a wall, connected to two power boxes behind them via pipes and cables. The first camera is tilted slightly downwards to the right, the second camera is tilted slightly higher but also points to the right. Most of the wall is plastered with gray plaster. Only the upper edge of the picture shows gray bricks.
 image_title: "Image by <a href='https://pixabay.com/users/webtechexperts-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551'>Joseph Mucira</a> from <a href='https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551'>Pixabay</a>"
-permalink: de/2024/01/data-privacy-officer.html
+permalink: 2024/01/data-privacy-officer.html
 lang: en
 ---
 
