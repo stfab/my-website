@@ -56,7 +56,7 @@ social:
 - {icon: 'square-rss', icon-class: 'solid', link: '/feed.xml'}
 
 # the copyright year for the footer, comment out to disable
-copyright: 2022 - 2023
+copyright: 2022 - 2024
 
 # the license for the footer and the link, comment out to disable
 license: 'CC BY-SA 4.0 Attribution-ShareAlike 4.0 International.'
