@@ -28,7 +28,7 @@ Dabei habe ich weniger das Gefühl, dass Datenschutz lästig ist. Gerade in den 
 
 Auf der Strecke bleibt bei all diesen Entwicklungen meist der Datenschutz. Wie das enden kann, haben wir in der Vergangenheit leider bei zahlreichen Datenlecks gesehen. Und meine Befürchtung ist, dass wir erst am Anfang stehen.
 
-## Datenschutz ist vor allem ein Rechtsthema
+## Datenschutz ist vor allem ein juristisches Thema
 
 ![Ein Richterhammer liegt auf einem Resonanzblock. Beide bestehen aus dunkelbraunem Holz, vermutlich Eiche. Dahinter liegt ein Stapel aus zwei Büchern. Das obere Buch ist in einem hellbraunen und das untere in einem etwas dunkleren Ledereinband gebunden. Aus dem unteren Buch hängt ein Stofflesezeichen heraus. Alle Dinge liegen auf weißem Hintergrund.](/assets/img/hammer-719066_640.jpg)
 _Der Schutz von personenbezogenen Daten ist ein Grundrecht, Bildquelle: [succo](https://pixabay.com/users/succo-96729/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=719066) auf [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=719066)_
