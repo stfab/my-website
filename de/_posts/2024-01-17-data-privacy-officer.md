@@ -7,7 +7,7 @@ categories: [tech, journal]
 tags: [data_privacy, certification]
 image: assets/img/surveillance.jpg
 image_description: An einer Wand hängen zwei silberene, längliche Überwachungskameras, die über Rohre und Kabel mit zwei Stromboxen dahinter verbunden sind. Die erste Kamera ist leicht nach unten rechts geneigt, die zweite Kamera ist etwas höher geneigt, zeigt aber auch nach rechts. Die Wand ist zum größten Teil mit grauem Putz verputzt. Lediglich die Oberkante des Bilds zeigt graue Mauersteine.
-image_title: "Bild von [Joseph Mucira](https://pixabay.com/users/webtechexperts-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551) auf [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551)"
+image_title: "Bild von <a href='https://pixabay.com/users/webtechexperts-10518280/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551'>Joseph Mucira</a> auf <a href='https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7267551'>Pixabay</a>"
 permalink: de/2024/01/data-privacy-officer.html
 lang: de
 ---
