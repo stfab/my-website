@@ -66,6 +66,6 @@ Dabei sind Profit und Datenschutz keine Gegenspieler. Guter Datenschutz kann auc
 
 ----
 
-Fragen Sie sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind Sie auf der Suche nach einem externen Dienstleister? Gerne kann ich Sie diesbezüglich beraten und Ihnen maßgeschneiderte Schulungsangebote für Mitarbeiter anbieten. Kontaktieren Sie mich dazu jederzeit zu einem kostenlosen Erstgespräch unter: mail@fabianstadler.com.
+Fragen Sie sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind Sie auf der Suche nach einem externen Dienstleister? Gerne kann ich Sie diesbezüglich beraten und Ihnen maßgeschneiderte Schulungsangebote für Mitarbeiter anbieten. Kontaktieren Sie mich dazu jederzeit zu einem kostenlosen Erstgespräch.
 
 
