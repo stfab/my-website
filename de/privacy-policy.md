@@ -135,11 +135,11 @@ Bei Cloudflare handelt es sich um ein Unternehmen aus den USA, einem Drittland, 
 
 Meine Präsenz auf sozialen Netzwerken und Plattformen dient der Verbesserung der aktiven Kommunikation mit meinen Kunden und Interessenten. Ich informiere dort über meine Produkte und laufende Aktionen.
 
-#### XING
+### XING
 
 Bei XING handelt es sich um ein sogenanntes Job-Netzwerk auf dem ich ein Profil unterhalte um die aktive Kommunikation mit meinen Kunden zu verbessern, sowie meine Produkte zu bewerben.
 
-### Besuch meines Profils
+#### Besuch meines Profils
 
 Wenn Sie mein XING Profil besuchen finden verschiedene Verarbeitungen personenbezogener Daten statt, die sowohl von mir als auch XING selbst durchgeführt werden. Somit ist XING gemäß DSGVO als Gemeinsamer Verantwortlicher mit mir anzusehen. Ein Vertragsverhältnis dieser Art liegt jedoch nicht vor, da XING bisher keine Möglichkeit bietet, einen solchen Vertrag einzugehen.
 
@@ -161,7 +161,7 @@ Wenn Sie XING unangemeldet aufrufen, werden lediglich die gewöhnlichen Zugriffs
 
 Weitere von XING für den Betrieb deren Service notwendige Cookies können hierbei nicht widerrufen werden. Für sie gilt als Rechtsgrundlage Art. 6 Abs. 1f DSGVO, das berechtigte Interesse von XING sowie meinerseits, an der korrekten Darstellung des Angebots.
 
-### Interaktion mit mir auf XING
+#### Interaktion mit mir auf XING
 
 Wenn Sie im Rahmen der Nutzung von XING weitere Funktionen nutzen, wie die Kommentarfunktion, die Möglichkeit mir eine Nachricht zu schicken, Postings meinerseits zu markieren oder Sie mit einem meiner Kontakte vernetzt sind, stellt mir XING personenbezogene Daten ihrerseits zur Verfügung, wie Ihren Namen, ihre aktuell angegebene Arbeitsstelle, den Kommentar/die Nachricht, die Art der Interaktion und den Zeitpunkt der Ausführung. 
 
@@ -175,11 +175,11 @@ Als Rechtsgrundlage für die Verarbeitung gibt XING unter anderem Art. 6 Abs. 1b
 
 Weitere Informationen, wie XING Informationen bei der Nutzung der Plattform erhebt und nutzt können Sie deren Datenschutzerklärung entnehmen: https://privacy.xing.com/de/datenschutzerklaerung. Für Daten, die im Verantwortungsbereich von XING erhoben werden, kontaktieren Sie bitte XING zur Geltendmachung Ihrer Betroffenenrechte.
 
-#### LinkedIn
+### LinkedIn
 
 Bei LinkedIn handelt es sich um ein sogenanntes Job-Netzwerk auf dem ich ein Profil unterhalte um die aktive Kommunikation mit meinen Kunden zu verbessern, sowie meine Produkte zu bewerben.
 
-##### Besuch meines Profils
+#### Besuch meines Profils
 
 Wenn Sie mein LinkedIn Profil besuchen finden verschiedene Verarbeitungen personenbezogener Daten statt, die sowohl von mir als auch LinkedIn selbst durchgeführt werden. Somit ist LinkedIn gemäß DSGVO als Gemeinsamer Verantwortlicher mit mir anzusehen. Ein Vertragsverhältnis dieser Art liegt jedoch nicht vor, da LinkedIn bisher keine Möglichkeit bietet, einen solchen Vertrag einzugehen.
 
@@ -201,7 +201,7 @@ Wenn Sie LinkedIn unangemeldet aufrufen, werden lediglich die gewöhnlichen Zugr
 
 Weitere von LinkedIn für den Betrieb deren Service notwendige Cookies können hierbei nicht widerrufen werden. Für sie gilt als Rechtsgrundlage Art. 6 Abs. 1f DSGVO, das berechtigte Interesse von LinkedIn sowie meinerseits, an der korrekten Darstellung des Angebots.
 
-##### Interaktion mit mir auf LinkedIn
+#### Interaktion mit mir auf LinkedIn
 
 Wenn Sie im Rahmen der Nutzung von LinkedIn weitere Funktionen nutzen, wie die Kommentarfunktion, die Möglichkeit mir eine Nachricht zu schicken, Postings meinerseits zu markieren oder Sie mit einem meiner Kontakte vernetzt sind, stellt mir LinkedIn personenbezogene Daten ihrerseits zur Verfügung, wie Ihren Namen, ihre aktuell angegebene Arbeitsstelle, den Kommentar/die Nachricht, die Art der Interaktion und den Zeitpunkt der Ausführung. 
 
@@ -215,7 +215,7 @@ Als Rechtsgrundlage für die Verarbeitung gibt LinkedIn unter anderem Art. 6 Abs
 
 Weitere Informationen, wie LinkedIn Informationen bei der Nutzung der Plattform erhebt und nutzt können Sie deren Datenschutzerklärung entnehmen: https://de.linkedin.com/legal/privacy-policy?. Für Daten, die im Verantwortungsbereich von LinkedIn erhoben werden, kontaktieren Sie bitte LinkedIn zur Geltendmachung Ihrer Betroffenenrechte.
 
-##### LinkedIn Analytics
+#### LinkedIn Analytics
 
 Neben den Basisfunktionen von LinkedIn stellt LinkedIn mir auch Analyse Daten zur Verfügung, die LinkedIn unter anderem zur Verbesserung deren eigenen Angebots nutzt. Darunter fallen verschiedene personenbezogene Daten von Ihnen, wenn Sie mit mir oder meinen Aktivitäten, wie Posts oder Kommentaren, interagieren.
 
@@ -227,15 +227,15 @@ Die Ansicht der Daten steht für mich etwa 1 Jahr bereit, danach kann ich nicht 
 
 Ein Widerrufsrecht auf die Verarbeitung dieser Daten kann ich Ihnen nicht gewährleisten, allerdings handelt es sich dabei um Daten, die sie im Rahmen der Nutzung von LinkedIn teilen und die von LinkedIn aufgrund Art. 6 Abs. 1b DSGVO verarbeitet werden. Generell steht Ihnen für die Löschung der Daten die Löschfunktion von LinkedIn zur Verfügung.
 
-##### Datenübertragung in ein Drittland
+#### Datenübertragung in ein Drittland
 
 Bei LinkedIn handelt es sich um ein Unternehmen aus den USA, einem Drittland, und es sei hier erwähnt, dass es zur Datenübertragung in die USA kommen kann, auch wenn die Server von LinkedIn in der EU stationiert sind. LinkedIn nimmt jedoch am Angemessenheitsbeschlusses des EU-US-Privacy Framework teil und unterwirft sich somit, gleichwertige Datenschutzmaßnahmen einzuhalten, wie sie in der DSGVO Pflicht sind.
 
-#### mastodon.world
+### mastodon.world
 
 Bei mastodon.world handelt es sich um ein soziales Netzwerk auf dem ich ein Profil unterhalte, um die aktive Kommunikation mit meinen Kunden zu verbessern, sowie meine Produkte zu bewerben.
 
-##### Besuch meines Profils
+#### Besuch meines Profils
 
 Wenn Sie mein mastodon.world Profil besuchen finden verschiedene Verarbeitungen personenbezogener Daten statt, die sowohl von mir als auch mastodon.world selbst durchgeführt werden. Somit ist mastodon.world gemäß DSGVO als Gemeinsamer Verantwortlicher mit mir anzusehen. Ein Vertragsverhältnis dieser Art liegt jedoch nicht vor, da mastodon.world bisher keine Möglichkeit bietet, einen solchen Vertrag einzugehen.
 
@@ -257,7 +257,7 @@ mastodon.world setzt unter anderem Cookies ein, die für die Funktion der Seite 
 
 Die Löschfristen der jeweiligen Cookies entnehmen Sie bitte der Datenschutzerklärung von mastodon.world.
 
-##### Interaktion mit mir auf mastodon.world
+#### Interaktion mit mir auf mastodon.world
 
 Wenn Sie im Rahmen der Nutzung von mastodon.world weitere Funktionen nutzen, wie die Kommentarfunktion, die Möglichkeit mir eine Nachricht zu schicken, Postings meinerseits zu markieren oder Sie mit einem meiner Kontakte vernetzt sind, stellt mir mastodon.world personenbezogene Daten ihrerseits zur Verfügung, wie Ihren Nutzernamen, den Kommentar/die Nachricht, die Art der Interaktion und den Zeitpunkt der Ausführung. 
 
@@ -273,7 +273,7 @@ Als Rechtsgrundlage für die Verarbeitung gibt LinkedIn unter anderem Art. 6 Abs
 
 Weitere Informationen, wie mastodon.world Informationen bei der Nutzung der Plattform erhebt und nutzt können Sie deren Datenschutzerklärung entnehmen: https://mastodon.world/privacy-policy. Für Daten, die im Verantwortungsbereich von mastodon.world erhoben werden, kontaktieren Sie bitte mastodon.world zur Geltendmachung Ihrer Betroffenenrechte.
 
-## 7. Ihre Rechte im Zusammenhang mit der Datenverarbeitung
+## 8. Ihre Rechte im Zusammenhang mit der Datenverarbeitung
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 

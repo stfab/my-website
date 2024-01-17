@@ -15,7 +15,8 @@ Deutschland
 E-Mail: mail@fabianstadler.com
 
 Thank you for your interest in my website. The protection of your privacy is very important to me. Below I will inform you in detail about the handling of your data.
-## 0. general information
+
+## 0. General information
 
 ### SSL or TLS encryption
 
@@ -23,7 +24,7 @@ This website uses SSL or TLS encryption for security reasons and to protect the 
 
 If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.
 
-## 1. website access
+## 1. Website access
 
 To provide my online offer, I use a hosting service provider on whose server the website displayed to you, including its subpages, is stored (hosting) and which makes my site available on the Internet. For this purpose, I use an offer from DigitalOcean, LLC, 101 Avenue of the Americas, 10th Floor, New York, NY 10013, USA in accordance with Art. 28 GDPR. 
 
@@ -49,7 +50,7 @@ In accordance with Art. 6 para. 1f GDPR, this serves to safeguard my legitimate 
 
 It should be noted here that DigitalOcean is a company from the USA, i.e. a third country, so that access to personal data from the USA cannot be ruled out. However, DigitalOcean participates in the adequacy decision of the EU-US Privacy Framework and thus undertakes to comply with data protection measures equivalent to those required by the GDPR.
 
-## 2. communication in the context of an order
+## 2. Communication in the context of an order
 
 ### Establishing contact on your part
 
@@ -81,7 +82,7 @@ You can view the exact terms of the contract at the following link: https://www.
 
 Microsoft is a company from the USA, a third country, whereby some metadata is transmitted to the USA when using Microsoft services. However, Microsoft participates in the adequacy decision of the EU-US Privacy Framework and thus undertakes to comply with data protection measures equivalent to those required by the GDPR.
 
-## 3. data processing in the context of an agreed contractual activity
+## 3. Data processing in the context of an agreed contractual activity
 
 If there is a contractually agreed activity between you and me, I reserve the right to define details of the processing of personal data required in the contractual relationship with you via an order processing contract, insofar as such data must be processed as part of the activity.
 
@@ -95,16 +96,16 @@ If it is merely a matter of communicating with you by post, the legal basis is A
 
 After completion of the contract, your data will be restricted for further processing and deleted after the expiry of tax and commercial retention periods of 10 years, unless you have expressly consented to further use of your data. If no contract has been concluded with you, the data will be deleted after your request has been completed, unless there is a legal obligation to retain it.
 
-## 5 Data transfer to payroll accountants
+## 5. Data transfer to payroll accountants
 
 If there is a contractual relationship between you and me as a result of which payments are made and documented by means of invoices, I will pass on personal data that is stated on the invoices you have issued to a tax consultancy office that also handles the bookkeeping for me, among other things.
 
 This usually involves data such as:
 * name, address
-* Telephone number, if applicable
+* telephone number, if applicable
 * services received
 * VAT ID
-* Payment information such as IBAN, BIC, name of the credit institution
+* payment information such as IBAN, BIC, name of the credit institution
 
 The data is passed on on the basis of Art. 6 para. 1c GDPR and Art. 6 para. 1f GDPR, compliance with legal obligations to pay taxes and my legitimate interest in correct accounting.
 
@@ -116,7 +117,7 @@ Kanzlei Steuerberatung Staudenmaier<br>
 Breitensteinweg 1<br>
 69412 Eberbach
 
-## 6. cookies on my website
+## 6. Cookies on my website
 
 Cookies are small text files that can be automatically stored on your device when you visit my website.
 
@@ -130,15 +131,15 @@ This type of processing is carried out in accordance with Art. 6 para. 1f GDPR a
 
 Cloudflare is a company from the USA, a third country, and it should be mentioned here that data may be transferred to the USA, even if Cloudflare's servers are located in the EU. However, Cloudflare participates in the adequacy decision of the EU-US Privacy Framework and thus undertakes to comply with equivalent data protection measures as those required by the GDPR.
 
-## 7 Social media
+## 7. Social media
 
 My presence on social networks and platforms serves to improve active communication with my customers and interested parties. I provide information there about my products and current promotions.
 
-#### XING
+### XING
 
 XING is a so-called job network on which I maintain a profile to improve active communication with my customers and to advertise my products.
 
-### Visit my profile
+#### Visit my profile
 
 When you visit my XING profile, various processing of personal data takes place, which is carried out by both me and XING itself. XING is therefore to be regarded as a joint controller with me in accordance with the GDPR. However, there is no contractual relationship of this kind, as XING does not yet offer the option of entering into such a contract.
 
@@ -160,7 +161,7 @@ If you visit XING unregistered, only the usual access data on a XING website wil
 
 Other cookies required by XING for the operation of its service cannot be revoked. The legal basis for them is Art. 6 para. 1f GDPR, the legitimate interest of XING and myself in the correct presentation of the offer.
 
-### Interaction with me on XING
+#### Interaction with me on XING
 
 If you use other functions when using XING, such as the comment function, the option to send me a message, to mark postings on my part or you are networked with one of my contacts, XING provides me with personal data on your part, such as your name, your currently specified job, the comment/message, the type of interaction and the time of execution. 
 
@@ -174,11 +175,11 @@ As the legal basis for processing, XING states, among other things, Art. 6 para.
 
 Further information on how XING collects and uses information when using the platform can be found in its privacy policy: https://privacy.xing.com/de/datenschutzerklaerung. For data collected within XING's area of responsibility, please contact XING to assert your rights as a data subject.
 
-#### LinkedIn
+### LinkedIn
 
 LinkedIn is a so-called job network on which I maintain a profile to improve active communication with my customers and to promote my products.
 
-##### Visit my profile
+#### Visit my profile
 
 When you visit my LinkedIn profile, various processing of personal data takes place, which is carried out by both me and LinkedIn itself. LinkedIn is therefore to be regarded as a joint controller with me in accordance with the GDPR. However, there is no contractual relationship of this kind, as LinkedIn does not yet offer the option of entering into such a contract.
 
@@ -200,7 +201,7 @@ If you visit LinkedIn unannounced, only the usual access data on a LinkedIn webs
 
 Other cookies required by LinkedIn for the operation of its service cannot be revoked. The legal basis for them is Art. 6 para. 1f GDPR, the legitimate interest of LinkedIn and myself in the correct presentation of the offer.
 
-##### Interaction with me on LinkedIn
+#### Interaction with me on LinkedIn
 
 If you use other functions when using LinkedIn, such as the comment function, the option to send me a message, to mark postings on my part or you are networked with one of my contacts, LinkedIn provides me with personal data on your part, such as your name, your currently specified job, the comment/message, the type of interaction and the time of execution. 
 
@@ -214,7 +215,7 @@ As the legal basis for the processing, LinkedIn states, among other things, Art.
 
 Further information on how LinkedIn collects and uses information when using the platform can be found in its privacy policy: https://de.linkedin.com/legal/privacy-policy?. For data collected in LinkedIn's area of responsibility, please contact LinkedIn to assert your rights as a data subject.
 
-##### LinkedIn Analytics
+#### LinkedIn Analytics
 
 In addition to the basic functions of LinkedIn, LinkedIn also provides me with analysis data that LinkedIn uses, among other things, to improve its own services. This includes various personal data about you when you interact with me or my activities, such as posts or comments.
 
@@ -226,15 +227,15 @@ The data is available for me to view for about 1 year, after which I can no long
 
 I cannot guarantee you a right to revoke your consent to the processing of this data, but this is data that you share when using LinkedIn and that is processed by LinkedIn on the basis of Art. 6 para. 1b GDPR. In general, you can use LinkedIn's delete function to delete the data.
 
-##### Data transfer to a third country
+#### Data transfer to a third country
 
 LinkedIn is a company from the USA, a third country, and it should be mentioned here that data may be transferred to the USA, even if LinkedIn's servers are located in the EU. However, LinkedIn participates in the adequacy decision of the EU-US Privacy Framework and thus undertakes to comply with data protection measures equivalent to those required by the GDPR.
 
-#### mastodon.world
+### mastodon.world
 
 mastodon.world is a social network on which I maintain a profile in order to improve active communication with my customers and to promote my products.
 
-##### Visit my profile
+#### Visit my profile
 
 When you visit my mastodon.world profile, various processing of personal data takes place, which is carried out by both me and mastodon.world itself. According to the GDPR, mastodon.world is therefore to be regarded as a joint controller with me. However, there is no contractual relationship of this kind, as mastodon.world does not yet offer the possibility of entering into such a contract.
 
@@ -256,7 +257,7 @@ Among other things, mastodon.world uses cookies that are necessary for the websi
 
 Please refer to the privacy policy of mastodon.world for the deletion periods of the respective cookies.
 
-##### Interaction with me on mastodon.world
+#### Interaction with me on mastodon.world
 
 If you use other functions when using mastodon.world, such as the comment function, the option to send me a message, to mark postings on my part or you are connected to one of my contacts, mastodon.world provides me with personal data on your part, such as your user name, the comment/message, the type of interaction and the time of execution. 
 
@@ -272,7 +273,7 @@ As the legal basis for the processing, LinkedIn states, among other things, Art.
 
 Further information on how mastodon.world collects and uses information when using the platform can be found in their privacy policy: https://mastodon.world/privacy-policy. For data collected within mastodon.world's area of responsibility, please contact mastodon.world to assert your rights as a data subject.
 
-## 7 Your rights in connection with data processing
+## 8. Your rights in connection with data processing
 
 ### Withdrawal of your consent to data processing
 
