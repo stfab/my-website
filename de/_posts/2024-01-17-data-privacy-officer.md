@@ -66,5 +66,5 @@ Profit und Datenschutz sind keine Gegensätze. Guter Datenschutz kann auch ein V
 
 ----
 
-Sie fragen sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind auf der Suche nach einem externen Dienstleister? Gerne berate ich Sie hierzu und biete Ihnen maßgeschneiderte Schulungen für Ihre Mitarbeiterinnen und Mitarbeiter an. Kontaktieren Sie mich jederzeit für ein kostenloses Erstgespräch.
+Sie fragen sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind auf der Suche nach einem externen Dienstleister? Gerne berate ich Sie hierzu und biete Ihnen maßgeschneiderte Schulungen für Ihre Mitarbeiterinnen und Mitarbeiter an. [Kontaktieren Sie mich](mailto:mail@fabianstadler.com) jederzeit für ein kostenloses Erstgespräch.
 
