@@ -64,7 +64,5 @@ This is not least due to the fact that the supervisory authorities give you cred
 
 Profit and data privacy are not mutually exclusive. Good data privacy can also be a selling point vis-à-vis US competitors. You just have to take care of it in good time and with an active process. Just like brushing your teeth.
 
-----
-
-Are you wondering whether you need a data privacy officer or are you looking for an external service provider? I will advise you on this and offer you customized training courses for employees. [Contact me](mailto:mail@fabianstadler.com) at any time for a free initial consultation.
+_Are you wondering whether you need a data privacy officer or are you looking for an external service provider? I will advise you on this and offer you customized training courses for employees. [Contact me](mailto:mail@fabianstadler.com) at any time for a free initial consultation._
 
