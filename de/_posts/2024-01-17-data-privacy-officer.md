@@ -64,7 +64,5 @@ Das liegt nicht zuletzt daran, dass es von den Aufsichtsbehörden honoriert wird
 
 Profit und Datenschutz sind keine Gegensätze. Guter Datenschutz kann auch ein Verkaufsargument gegenüber amerikanischen Konkurrenten sein. Man muss sich nur rechtzeitig und aktiv darum kümmern. Wie beim Zähneputzen.
 
-----
-
-Sie fragen sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind auf der Suche nach einem externen Dienstleister? Gerne berate ich Sie hierzu und biete Ihnen maßgeschneiderte Schulungen für Ihre Mitarbeiterinnen und Mitarbeiter an. [Kontaktieren Sie mich](mailto:mail@fabianstadler.com) jederzeit für ein kostenloses Erstgespräch.
+_Sie fragen sich, ob Sie einen Datenschutzbeauftragten benötigen oder sind auf der Suche nach einem externen Dienstleister? Gerne berate ich Sie hierzu und biete Ihnen maßgeschneiderte Schulungen für Ihre Mitarbeiterinnen und Mitarbeiter an. [Kontaktieren Sie mich](mailto:mail@fabianstadler.com) jederzeit für ein kostenloses Erstgespräch._
 
