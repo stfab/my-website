@@ -273,6 +273,25 @@ Als Rechtsgrundlage für die Verarbeitung gibt LinkedIn unter anderem Art. 6 Abs
 
 Weitere Informationen, wie mastodon.world Informationen bei der Nutzung der Plattform erhebt und nutzt können Sie deren Datenschutzerklärung entnehmen: https://mastodon.world/privacy-policy. Für Daten, die im Verantwortungsbereich von mastodon.world erhoben werden, kontaktieren Sie bitte mastodon.world zur Geltendmachung Ihrer Betroffenenrechte.
 
+## Medium
+
+Ich betreibe eine Seite auf dem Portal "Medium", auf dem ich Artikel zur Verfügung stellen. Für jegliche darüber hinausgehende Verarbeitung auf unserer Mediumseite gilt die Datenschutzerklärung der A Medium Corporation, c/o Legal Department, P.O. Box 602, San Francisco, CA 94104–0602, Phone: 415-987-4414, e-mail: legal@medium.com.
+
+Weitere Infos zur Verarbeitung von personenbezogenen Daten durch Medium finden Sie hier: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+
+Ich betreibe eine Unternehmens-Webseiten auf der Social-Media-Plattform Medium, insbesondere zur Veröffentlichung von IT-orientierten Artikeln.
+
+Nach dem Urteil des Europäischen Gerichtshofes (EuGH) vom 05.06.2018, Az. C-210/16 ist der Betreiber von Social-Media-Seiten für die Datenverarbeitung bei Facebook-Fanpages zumindest mitverantwortlich im Sinne des Art. 26 DSGVO. Ich vermute eine analoge Anwendbarkeit dieser Entscheidung auf andere soziale Netzwerke, so auch bei Medium. Bislang ist mir nicht bekannt, dass Medium eine den Anforderungen des Art. 26 genügende Vereinbarung anbietet.
+
+Ich verarbeite Ihre Daten nur dann, wenn Sie meine Artikel kommentieren, mir folgen oder den Beitrag "liken", bei Medium ist das der Applaus ("claps"). All diese Daten verarbeitet ebenfalls Medium. Dabei findet unter Umständen auch eine Speicherung und weitere Verarbeitung durch mich statt.
+
+Die Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten ist abhängig von der Fallkonstellation.
+Für die Kommentare und "claps" die Sie tätigen, ist die Rechtsgrundlage Ihre konkludente Einwilligung nach Art. 6 I lit. a DSGVO. Die Verarbeitung auf Basis unser berechtigtes Interesse an der Kommunikation mit den Nutzern ist Art. 6 Abs. 1 lit. f DSGVO.
+
+Sie können den Artikel auf weiteren Social-Media-Plattformen wie bspw. Facebook und Twitter teilen oder sich auch mit Ihren Social-Medium-Accounts anmelden. Hier können personenbezogene Daten, die mit Ihrem Account verknüpft sind von Medium verarbeitet werden, oder die Social-Media-Anbieter verarbeiten von Ihnen durch die Seite Medium anfallende personenbezogene Daten. Beachten Sie bitte hierzu die Datenschutzerklärung von Medium: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+
+Ferner erhalte ich aggregierte Statistikdaten ohne Personenbezug (anonymisierte personenbezogene Daten) und erhebe zusätzlich möglicherweise Daten der Besucher unserer Unternehmensseite, sofern die Anzeige als Besucher als Verarbeitung definiert werden kann. Ich speichere diese Daten aber nicht auf eigenen Systemen, noch werden sie über eine gelegentliche Kenntnisnahme systematisch weiterverarbeitet. Für diese Verarbeitungsschritte gelten meine Informationen hinsichtlich der verantwortlichen Stelle, des Datenschutzbeauftragten und der Erklärung Ihrer Rechte als betroffene Person.
+
 ## 8. Ihre Rechte im Zusammenhang mit der Datenverarbeitung
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
