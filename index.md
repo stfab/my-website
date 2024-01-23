@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Fabian Stadler is a senior software engineer and data protection officer (TÜV). With many years of experience, Fabian supports you in the implementation of your IT projects."
+description: "Fabian Stadler is a freelancer, senior software engineer and data protection officer (TÜV). Fabian has many years of experience in data protection, ETL development and cloud backend development."
 ---
 
 <section class="index-header">

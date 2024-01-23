@@ -1,7 +1,7 @@
 ---
 layout: default-de
 title: Startseite
-description: "Fabian Stadler ist Senior Software-Ingenieur*in und Datenschutzbeauftragte*r (TÜV). Durch langjährige Erfahrung unterstützt Fabian Sie bei der Umsetzung Ihrer IT-Projekte."
+description: "Fabian Stadler ist Freelancer, Senior Software-Ingenieur und Datenschutzbeauftragter (TÜV). Fabian besitzt langjährige Erfahrung im Datenschutz, in der ETL-Entwicklung und in der Cloud Backend Entwicklung."
 permalink: de/index.html
 ---
 
@@ -16,7 +16,7 @@ permalink: de/index.html
     <div class="left">
         <h3>Softwareentwicklung</h3>
         <img src="/assets/img/lightbulb-3104355_640.jpg" alt="Bild einer Glühbirne">
-        <p>Automatisierte Prozesse erfordern maßgeschneiderte Sofwaresysteme. Ich entwickle für Sie individuelle Software, die Ihre Prozesse optimal unterstützt. Dabei setze ich auf moderne Programmiersprachen und Frameworks. Gerne unterstütze ich Sie auch bei der Weiterentwicklung Ihrer bestehenden Software.</p>
+        <p>Automatisierte Prozesse erfordern passende Sofwaresysteme. Ich entwickle für Sie individuelle Software, die Ihre Prozesse optimal unterstützt. Dabei setze ich unter anderem auf moderne Programmiersprachen und Frameworks. Zudem unterstütze ich Sie bei der Weiterentwicklung Ihrer bestehenden Software.</p>
     </div>
 </div>
 
@@ -44,10 +44,10 @@ permalink: de/index.html
     <div class="profile">
         <img src="/assets/img/fabian_stadler.jpg" alt="Profilbild von Fabian Stadler">
         <h1>Fabian Stadler</h1>
-        <h5 class="post-date">Senior Software-Ingenieur*in</h5>
+        <h5 class="post-date">Senior Software-Ingenieur</h5>
     </div>
     <div class="profile-text">
-        <p>Fabian Stadler ist Senior Software-Ingenieur*in mit mehr als 6 Jahren Erfahrung in der Softwareentwicklung. Nach dem Mathematikstudium hat Fabian unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
+        <p>Fabian Stadler ist Senior Software-Ingenieur mit mehr als 6 Jahren Erfahrung in der Softwareentwicklung. Nach dem Mathematikstudium hat Fabian unter anderem für Unternehmen in den Bereichen ÖPNV, Pharma und Chemie gearbeitet.</p>
         {% for item in site.social %}
             {% assign first_char = item.link | slice: 0 %}
             {% if item.icon == 'mastodon' %}
