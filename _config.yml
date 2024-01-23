@@ -50,9 +50,10 @@ navbar-pages-de:
 social:
 - {icon: 'envelope', icon-class: 'solid', link: 'mailto:mail@fabianstadler.com'}
 - {icon: 'linkedin', icon-class: 'brands',  link: 'https://www.linkedin.com/in/fabian-stadler-46777b229/'}
+- {icon: 'mastodon', icon-class: 'brands',  link: 'https://mastodon.world/@fabianstadler'}
+- {icon: 'medium', icon-class: 'brands', link: 'https://medium.com/@fabian-stadler'}
 - {icon: 'xing', icon-class: 'brands',  link: 'https://www.xing.com/profile/Fabian_Stadler20'}
 - {icon: 'github', icon-class: 'brands', link: 'https://www.github.com/stfab'}
-- {icon: 'mastodon', icon-class: 'brands',  link: 'https://mastodon.world/@fabianstadler'}
 - {icon: 'square-rss', icon-class: 'solid', link: '/feed.xml'}
 
 # the copyright year for the footer, comment out to disable
