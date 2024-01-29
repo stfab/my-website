@@ -52,6 +52,7 @@ social:
 - {icon: 'linkedin', icon-class: 'brands',  link: 'https://www.linkedin.com/in/fabian-stadler-46777b229/'}
 - {icon: 'mastodon', icon-class: 'brands',  link: 'https://mastodon.world/@fabianstadler'}
 - {icon: 'medium', icon-class: 'brands', link: 'https://medium.com/@fabian-stadler'}
+- {icon: 'instagram', icon-class: 'brands', link: 'https://www.instagram.com/fabianstadlersolutions/'}
 - {icon: 'xing', icon-class: 'brands',  link: 'https://www.xing.com/profile/Fabian_Stadler20'}
 - {icon: 'github', icon-class: 'brands', link: 'https://www.github.com/stfab'}
 - {icon: 'square-rss', icon-class: 'solid', link: '/feed.xml'}
