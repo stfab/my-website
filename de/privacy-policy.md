@@ -292,6 +292,39 @@ Sie können den Artikel auf weiteren Social-Media-Plattformen wie bspw. Facebook
 
 Ferner erhalte ich aggregierte Statistikdaten ohne Personenbezug (anonymisierte personenbezogene Daten) und erhebe zusätzlich möglicherweise Daten der Besucher unserer Unternehmensseite, sofern die Anzeige als Besucher als Verarbeitung definiert werden kann. Ich speichere diese Daten aber nicht auf eigenen Systemen, noch werden sie über eine gelegentliche Kenntnisnahme systematisch weiterverarbeitet. Für diese Verarbeitungsschritte gelten meine Informationen hinsichtlich der verantwortlichen Stelle, des Datenschutzbeauftragten und der Erklärung Ihrer Rechte als betroffene Person.
 
+## Instagram
+
+### Angaben zur Instagram-Seite
+
+Instagram ist ein Onlinedienst zum Teilen von Fotos und Videos, der zum Konzern Meta, früher Facebook, gehört.Ich greife hier für den hier angebotenen Informationsdienst auf die technische Plattform und die Dienste der Facebook Ireland Ltd., 4 Grand Canal Square Grand Canal Harbour, Dublin 2, Ireland zurück.
+Ich weise Sie darauf hin, dass Sie die Instagram-Seite und ihre Funktionen in eigener Verantwortung nutzen. Dies gilt insbesondere für die Nutzung der interaktiven Funktionen (z.B. Kommentieren, Bewerten).
+
+### Verarbeitung personenbezogener Daten durch Facebook
+
+Beim Besuch dieser Instagram-Seite erfasst Facebook unter anderem Ihre IP-Adresse sowie weitere Informationen, die in Form von Cookies auf Ihrem PC vorhanden sind. Diese Informationen werden verwendet, um mir als Betreiber der Instagram-Seiten anonymisierte statistische Informationen über die Inanspruchnahme der Instagram-Seite zur Verfügung zu stellen.
+
+Die in diesem Zusammenhang über Sie erhobenen Daten werden von der Facebook Ltd. verarbeitet und dabei gegebenenfalls in Länder außerhalb der Europäischen Union übertragen. Welche Informationen Facebook erhält und wie diese verwendet werden, beschreibt Facebook in seinen Datenverwendungsrichtlinien. Dort finden Sie auch Informationen über Kontaktmöglichkeiten zu Facebook sowie zu den Einstellmöglichkeiten für Werbeanzeigen. Die Datenverwendungsrichtlinien sind unter folgendem Link verfügbar: https://help.instagram.com/519522125107875. Die vollständigen Datenrichtlinien des Dienstes Instagram finden Sie hier: https://help.instagram.com/581066165581870/?helpref=hc_fnav.
+
+Über den Einsatz von Cookies informiert Facebook im Rahmen der Cookie-Richtlinie für den Dienst Instagram: https://help.instagram.com/1896641480634370/?helpref=hc_fnav. Ich möchte darauf hinweisen, dass Facebook Ireland mittels der verwendeten Cookies dazu in der Lage ist, Ihr Nutzerverhalten (bei angemeldeten Nutzern geräteübergreifend) auch jenseits des Dienstes Instagram auf anderen Webseiten nachzuvollziehen. Dies gilt sowohl für bei dem Dienst Instagram registrierte, als auch für dort nicht registrierte Betroffene.
+
+Nach eigenen Angaben speichert Facebook Daten, bis sie nicht mehr benötigt werden, um die Dienste und Facebook-Produkte bereitzustellen oder bis das jeweilige Konto der Nutzerin oder des Nutzers gelöscht wird, je nachdem, was zuerst eintritt. Dies hängt von den Umständen des Einzelfalles ab, insbesondere der Art der Daten, warum sie erfasst und verarbeitet werden sowie den relevanten rechtlichen oder betrieblichen Speicherbedürfnissen. Nähere Informationen zur Speicherung der Daten finden Sie unter: https://de-de.facebook.com/about/privacy
+
+### Instagram Seiten Insights
+
+Facebook verarbeitet in seinen sog. Seiten-Insights eine Reihe von personenbezogenen Daten der Seitenbesucherinnen und -besucher zu eigenen Zwecken. Die Verarbeitung findet unabhängig davon statt, ob Seitenbesucher bei Facebook bzw. Instagram angemeldet sind oder nicht und ob Seitenbesucher Mitglieder des Facebook beziehungsweise Instagram-Netzwerks sind. Auch Nutzerinnen und Nutzer, die auf die Instagram-Seiten zugreifen, ohne bei Instagram registriert bzw. angemeldet zu sein, haben die Möglichkeit, mittels eines von Facebook gesetzten Cookie-Banners den Umfang der Datenverarbeitung zu beeinflussen. Nähere Informationen zu den Cookies von Facebook finden Sie unter: https://www.facebook.com/policies/cookies/
+
+Bei Seiten-Insights handelt es sich um zusammengefasste, anonymisierte Statistiken. Seitenbetreiber selbst haben keinen Zugriff auf die personenbezogenen Daten, die in diesem Rahmen verarbeitet werden, sondern nur auf die zusammengefassten, anonymisierten Seiten-Insights. Nähere Informationen finden Sie unter: https://www.facebook.com/help/instagram/788388387972460
+
+### Rechte der betroffenen Person
+
+Die Instagram-Seite bietet Ihnen die Möglichkeit, auf unsere Beiträge zu reagieren, diese zu kommentieren und uns private Nachrichten zu schicken. Bitte prüfen Sie sorgfältig, welche personenbezogenen Daten Sie mit uns über unsere Instagram-Seite teilen. Wenn Sie vermeiden möchten, dass Facebook von Ihnen an uns übermittelte persönliche Daten verarbeitet, nehmen Sie bitte auf anderem Wege Kontakt mit uns auf, beispielsweise über unsere Kontaktmöglichkeiten.
+
+Werden personenbezogene Daten von Nutzerinnen und Nutzern verarbeitet, steht ihnen gemäß EU-Datenschutz-Grundverordnung das Recht auf Auskunft, Berichtigung, Widerspruch, Übertragbarkeit und Löschung der Daten zu. Facebook Ireland ist dazu verpflichtet, Anfragen von betroffenen Personen zu beantworten. Weitere Informationen zu den Betroffenenrechten stellt Facebook hier zur Verfügung: https://www.facebook.com/help/2069235856423257
+
+Anfragen von Nutzerinnen und Nutzer zur Datenverarbeitung beim Besuch einer Instagram-Seite, die in alleiniger Verantwortung von Facebook Ireland liegt, werden von uns an Facebook Ireland weitergeleitet. Nutzerinnen und Nutzer können unter folgendem Link den Datenschutzbeauftragten von Facebook selbst kontaktieren: https://www.facebook.com/help/contact/540977946302970
+
+Weiterhin informiert Facebook über datenschutzfreundliche Profileinstellungen bei Instagram-Profilen: https://help.instagram.com/811572406418223/?helpref=hc_fnav
+
 ## 8. Ihre Rechte im Zusammenhang mit der Datenverarbeitung
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
